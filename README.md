@@ -4,7 +4,7 @@ This repository contains different task solutions and projects in regards to my 
 
 The majority of tasks can be evaluated in judge assessment system at softuni.bg - https://softuni.bg/
 
-Repo Structure Repo structure is divided into Modules and respective Courses. For more information check the curriculum at softuni.bg.  
+The Repo is divided into Modules and respective Courses. For more information check the curriculum at softuni.bg.  
 
 Each course that has evaluated examination in judge assessment system contains a Task Table in its folder. 
 
