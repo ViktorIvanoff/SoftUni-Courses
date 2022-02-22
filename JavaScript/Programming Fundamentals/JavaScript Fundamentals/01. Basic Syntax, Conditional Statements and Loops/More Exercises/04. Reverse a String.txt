@@ -1,0 +1,9 @@
+function reverseAString(string) {
+
+    let strAsArray = string.split("");
+    let strReversed = strAsArray.reverse();
+    let strJoined = strReversed.join("");
+
+    console.log(strJoined);
+
+}
