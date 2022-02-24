@@ -1,9 +1,0 @@
-function solve(name, age, averageNumber) {
-
-    // let name = String(name);
-    // let age = Number(age);
-    // let averageNumber = Number(averageNumber);
-
-    console.log(`Name: ${name}, Age: ${age}, Grade: ${averageNumber.toFixed(2)}`);
-
-}
