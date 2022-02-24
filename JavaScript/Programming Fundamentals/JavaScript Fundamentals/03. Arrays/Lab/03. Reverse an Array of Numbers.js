@@ -1,0 +1,15 @@
+function reverse(n, array) {
+    
+    let arr = [];
+    for (let i = 0; i < n; i++) {
+      arr.push(array.shift());
+    }
+  
+    let reversed = '';
+    for (let i = arr.length - 1; i >= 0; i--) {
+      reversed += arr[i] + ' ';
+    }
+  
+    reversed = reversed.trimEnd();
+    console.log(reversed);
+  }
