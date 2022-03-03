@@ -2,7 +2,7 @@
 
 This repository contains different task solutions and projects in regards to my learning experience at Software University. 
 
-The majority of tasks can be evaluated in judge assessment system at softuni.bg - https://softuni.bg/
+The majority of tasks can be evaluated in judge assessment system at softuni.bg - https://judge.softuni.org/
 
 The Repo is divided into Modules and respective Courses. For more information check the curriculum at softuni.bg.  
 
