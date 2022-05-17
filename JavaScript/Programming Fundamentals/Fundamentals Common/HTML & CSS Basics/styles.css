@@ -1,0 +1,46 @@
+h1 {
+    color: red;
+}
+
+p {
+    background: white;
+    color: purple;
+}
+
+.Heading {
+
+    color: #292929;
+    background-color: white;
+
+}
+
+.HeadingTwo {
+
+    color:#C64D16;
+    background-color: black;
+
+}
+
+#selector {
+
+    text-align: center;
+    color: black;
+    background-color: white;
+}
+
+.WWF {
+
+    color:green;
+    background-color: black;
+
+}
+
+.Panda {
+    color:black;
+    background-color: white;
+}
+
+nav ul li {
+
+    display: inline;
+}

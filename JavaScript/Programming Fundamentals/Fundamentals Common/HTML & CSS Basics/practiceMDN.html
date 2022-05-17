@@ -1,0 +1,24 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
+
+<body>
+    <div id="parent-id">
+        <p>hello word1</p>
+        <p id="test1">hello word2</p>
+        <p>hello word3</p>
+        <p>hello word4</p>
+    </div>
+    <script>
+        var parentDOM = document.getElementById('parent-id');
+        var test1 = parentDOM.getElementById('test1');
+        //throw error
+        //Uncaught TypeError: parentDOM.getElementById is not a function
+    </script>
+</body>
+
+</html>
