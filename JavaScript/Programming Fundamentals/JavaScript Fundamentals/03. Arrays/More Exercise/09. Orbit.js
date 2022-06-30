@@ -7,8 +7,8 @@ function solve(tokens = []) {
   
     // INITIALIZE MATRIX
     let matrix = [];
-    for (let i = 0; i < width; i++) {
 
+    for (let i = 0; i < width; i++) {
       matrix.push([]);
     }
   
@@ -20,8 +20,12 @@ function solve(tokens = []) {
       }
     }
   
-    for (let row of matrix) {
+   matrix.forEach(row => console.log(row.join(' ')));
 
-      console.log(row.join(' '));
-    }
   }
+
+// solve([4, 4, 0, 0]);
+
+solve ([5, 5, 2, 2]);
+
+// solve([3, 3, 2, 2]);

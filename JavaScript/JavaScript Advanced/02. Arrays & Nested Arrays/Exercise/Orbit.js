@@ -24,7 +24,3 @@ function solve(tokens = []) {
   // we print the matrix
   matrix.forEach(row => console.log(row.join(' ')));
 }
-
-solve([4, 4, 0, 0]);
-// solve([5, 5, 2, 2]);
-// solve([3, 3, 2, 2]);
