@@ -1,82 +1,117 @@
-async function getRecipes() {
-    const response = await fetch('http://localhost:3030/jsonstore/cookbook/recipes');
-    const recipes = await response.json();
 
-    return Object.values(recipes);
-}
-
-async function getRecipeById(id) {
-    const response = await fetch('http://localhost:3030/jsonstore/cookbook/details/' + id);
-    const recipe = await response.json();
-
-    return recipe;
-}
-
-function createRecipePreview(recipe) {
-    const result = e('article', { className: 'preview', onClick: toggleCard },
-        e('div', { className: 'title' }, e('h2', {}, recipe.name)),
-        e('div', { className: 'small' }, e('img', { src: recipe.img })),
-    );
-
-    return result;
-
-    async function toggleCard() {
-        const fullRecipe = await getRecipeById(recipe._id);
-
-        result.replaceWith(createRecipeCard(fullRecipe));
-    }
-}
-
-function createRecipeCard(recipe) {
-    const result = e('article', {},
-        e('h2', {}, recipe.name),
-        e('div', { className: 'band' },
-            e('div', { className: 'thumb' }, e('img', { src: recipe.img })),
-            e('div', { className: 'ingredients' },
-                e('h3', {}, 'Ingredients:'),
-                e('ul', {}, recipe.ingredients.map(i => e('li', {}, i))),
-            )
-        ),
-        e('div', { className: 'description' },
-            e('h3', {}, 'Preparation:'),
-            recipe.steps.map(s => e('p', {}, s))
-        ),
-    );
-
-    return result;
-}
+const url = `http://localhost:3030/jsonstore/cookbook/recipes`;
 
 window.addEventListener('load', async () => {
-    const main = document.querySelector('main');
-
-    const recipes = await getRecipes();
-    const cards = recipes.map(createRecipePreview);
-
-    main.innerHTML = '';
-    cards.forEach(c => main.appendChild(c));
+    try {
+        const res = await fetch(url);
+        const data = await res.json();
+        let recipes = Object.values(data);
+        showRecipes(recipes);
+    }
+    catch(err) {
+        console.log(err);
+    }
 });
 
-function e(type, attributes, ...content) {
-    const result = document.createElement(type);
+    function showRecipes(recipes) {
+        const mainSectionElement = document.querySelector('main');
+        mainSectionElement.innerHTML = '';
 
-    for (let [attr, value] of Object.entries(attributes || {})) {
-        if (attr.substring(0, 2) == 'on') {
-            result.addEventListener(attr.substring(2).toLocaleLowerCase(), value);
-        } else {
-            result[attr] = value;
-        }
+        recipes.forEach((r) => {
+            const article = document.createElement('article');
+            article.classList.add('preview');
+    
+            const titleDiv = document.createElement('div');
+            titleDiv.classList.add('title');
+            const h2 = document.createElement('h2');
+            h2.textContent = `${r.name}`;
+            titleDiv.appendChild(h2);
+    
+            article.appendChild(titleDiv);
+    
+            const smallDiv = document.createElement('div');
+            smallDiv.classList.add('small');
+            const img = document.createElement('img');
+            img.src = `${r.img}`;
+            smallDiv.appendChild(img);
+            article.appendChild(smallDiv);
+
+            mainSectionElement.appendChild(article);
+
+            // attach event listener to each article
+            article.addEventListener('click', async () => {
+                //fetch data
+                // fill html
+                const recipeUrl = `http://localhost:3030/jsonstore/cookbook/details/${r._id}`;
+                const recipeRes = await fetch(recipeUrl);
+                const recipeData = await recipeRes.json();
+                loadSeparateRecipe(recipeData);
+            });
+        });
     }
 
-    content = content.reduce((a, c) => a.concat(Array.isArray(c) ? c : [c]), []);
+    function loadSeparateRecipe(data) {
+        const mainSectionElement = document.querySelector('main');
+        mainSectionElement.innerHTML = '';
 
-    content.forEach(e => {
-        if (typeof e == 'string' || typeof e == 'number') {
-            const node = document.createTextNode(e);
-            result.appendChild(node);
-        } else {
-            result.appendChild(e);
-        }
-    });
+        const secondArticle = document.createElement('article');
 
-    return result;
-}
+        const h2 = document.createElement('h2');
+        h2.textContent = `${data.name}`;
+        secondArticle.appendChild(h2);
+
+        const bandDiv = document.createElement('div');
+        bandDiv.classList.add('band');
+
+        const thumbDiv = document.createElement('div');
+        thumbDiv.classList.add('thumb');
+
+        const img = document.createElement('img');
+        img.src = `${data.img}`;
+        thumbDiv.appendChild(img);
+
+        bandDiv.appendChild(thumbDiv);
+
+        const ingredientsDiv = document.createElement('div');
+        ingredientsDiv.classList.add('ingredients');
+
+        const h3 = document.createElement('h3');
+        h3.textContent = "Ingredients:";
+        ingredientsDiv.appendChild(h3);
+  
+        const ul = document.createElement('ul');
+        data.ingredients.map((i) => {
+            let li = document.createElement('li');
+            li.textContent = `${i}`;
+            ul.appendChild(li);
+        });
+   
+        ingredientsDiv.appendChild(ul);
+
+        bandDiv.appendChild(ingredientsDiv);
+
+        secondArticle.appendChild(bandDiv);
+        // secondArticle.appendChild(ingredientsDiv);
+    
+        const descriptionDiv = document.createElement('div');
+        descriptionDiv.classList.add('description');
+
+        const secondH3 = document.createElement('h3');
+        secondH3.textContent = "Preparation:";
+        descriptionDiv.appendChild(secondH3);
+
+        data.steps.map((s) => {
+            let p = document.createElement('p');
+            p.textContent = `${s}`;
+            descriptionDiv.appendChild(p);
+        });
+       
+        secondArticle.appendChild(descriptionDiv);
+
+        mainSectionElement.appendChild(secondArticle);
+        return secondArticle;
+    }
+      
+ 
+    
+
