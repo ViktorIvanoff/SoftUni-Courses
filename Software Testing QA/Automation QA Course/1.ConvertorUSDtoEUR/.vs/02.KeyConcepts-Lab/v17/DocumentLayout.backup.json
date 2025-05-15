@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Victor\\Desktop\\Automation QA\\Programming Fundamentals and Unit Testing\\VS Projects\\1.ConvertorUSDtoEUR\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B54ED7-2F80-4559-A3C2-4865466B20D0}|02.KeyConcepts-Lab\\02.KeyConcepts-Lab.csproj|c:\\users\\victor\\desktop\\automation qa\\programming fundamentals and unit testing\\vs projects\\1.convertorusdtoeur\\02.keyconcepts-lab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B54ED7-2F80-4559-A3C2-4865466B20D0}|02.KeyConcepts-Lab\\02.KeyConcepts-Lab.csproj|solutionrelative:02.keyconcepts-lab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\Automation QA\\Programming Fundamentals and Unit Testing\\VS Projects\\1.ConvertorUSDtoEUR\\02.KeyConcepts-Lab\\Program.cs",
+              "RelativeDocumentMoniker": "02.KeyConcepts-Lab\\Program.cs",
+              "ToolTip": "C:\\Users\\Victor\\Desktop\\Automation QA\\Programming Fundamentals and Unit Testing\\VS Projects\\1.ConvertorUSDtoEUR\\02.KeyConcepts-Lab\\Program.cs",
+              "RelativeToolTip": "02.KeyConcepts-Lab\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T09:38:14.626Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
