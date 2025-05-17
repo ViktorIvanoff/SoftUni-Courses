@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Victor\\Desktop\\Automation QA\\Programming Fundamentals and Unit Testing\\VS Projects\\DataTypesVariablesConcepts-Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{921575F3-0CFF-4100-8031-B5F7111AD634}|06.Aquarium\\06.Aquarium.csproj|c:\\users\\victor\\desktop\\automation qa\\programming fundamentals and unit testing\\vs projects\\datatypesvariablesconcepts-exercise\\06.aquarium\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{921575F3-0CFF-4100-8031-B5F7111AD634}|06.Aquarium\\06.Aquarium.csproj|solutionrelative:06.aquarium\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE29FC8C-B84A-4D13-99D7-CD38C50BC5DC}|..\\05.BasketballEquipment\\05.BasketballEquipment.csproj|c:\\users\\victor\\desktop\\automation qa\\programming fundamentals and unit testing\\vs projects\\05.basketballequipment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F00316-E253-4F40-8894-9B3715745C8D}|04.FoodDelivery\\04.FoodDelivery.csproj|c:\\users\\victor\\desktop\\automation qa\\programming fundamentals and unit testing\\vs projects\\datatypesvariablesconcepts-exercise\\04.fooddelivery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F00316-E253-4F40-8894-9B3715745C8D}|04.FoodDelivery\\04.FoodDelivery.csproj|solutionrelative:04.fooddelivery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{947A05E5-8CBD-4DA2-8501-287B6ED89458}|03.Redecorating\\03.Redecorating.csproj|c:\\users\\victor\\desktop\\automation qa\\programming fundamentals and unit testing\\vs projects\\datatypesvariablesconcepts-exercise\\03.redecorating\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{947A05E5-8CBD-4DA2-8501-287B6ED89458}|03.Redecorating\\03.Redecorating.csproj|solutionrelative:03.redecorating\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FEAD87C-6CB1-44B0-AFA3-88F1938013B4}|..\\02.CenturiesToMinutes\\02.CenturiesToMinutes.csproj|c:\\users\\victor\\desktop\\automation qa\\programming fundamentals and unit testing\\vs projects\\02.centuriestominutes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3C8E47D-D910-4337-AB52-21E8BF2DD2D5}|01.ReversedNumbers\\01.ReversedNumbers.csproj|c:\\users\\victor\\desktop\\automation qa\\programming fundamentals and unit testing\\vs projects\\datatypesvariablesconcepts-exercise\\01.reversednumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3C8E47D-D910-4337-AB52-21E8BF2DD2D5}|01.ReversedNumbers\\01.ReversedNumbers.csproj|solutionrelative:01.reversednumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\Automation QA\\Programming Fundamentals and Unit Testing\\VS Projects\\02.CenturiesToMinutes\\Program.cs",
+              "RelativeDocumentMoniker": "..\\02.CenturiesToMinutes\\Program.cs",
+              "ToolTip": "C:\\Users\\Victor\\Desktop\\Automation QA\\Programming Fundamentals and Unit Testing\\VS Projects\\02.CenturiesToMinutes\\Program.cs",
+              "RelativeToolTip": "..\\02.CenturiesToMinutes\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T12:41:46.4Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\Automation QA\\Programming Fundamentals and Unit Testing\\VS Projects\\DataTypesVariablesConcepts-Exercise\\06.Aquarium\\Program.cs",
+              "RelativeDocumentMoniker": "06.Aquarium\\Program.cs",
+              "ToolTip": "C:\\Users\\Victor\\Desktop\\Automation QA\\Programming Fundamentals and Unit Testing\\VS Projects\\DataTypesVariablesConcepts-Exercise\\06.Aquarium\\Program.cs",
+              "RelativeToolTip": "06.Aquarium\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T15:07:06.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\Automation QA\\Programming Fundamentals and Unit Testing\\VS Projects\\05.BasketballEquipment\\Program.cs",
+              "RelativeDocumentMoniker": "..\\05.BasketballEquipment\\Program.cs",
+              "ToolTip": "C:\\Users\\Victor\\Desktop\\Automation QA\\Programming Fundamentals and Unit Testing\\VS Projects\\05.BasketballEquipment\\Program.cs",
+              "RelativeToolTip": "..\\05.BasketballEquipment\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T14:12:52.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\Automation QA\\Programming Fundamentals and Unit Testing\\VS Projects\\DataTypesVariablesConcepts-Exercise\\04.FoodDelivery\\Program.cs",
+              "RelativeDocumentMoniker": "04.FoodDelivery\\Program.cs",
+              "ToolTip": "C:\\Users\\Victor\\Desktop\\Automation QA\\Programming Fundamentals and Unit Testing\\VS Projects\\DataTypesVariablesConcepts-Exercise\\04.FoodDelivery\\Program.cs",
+              "RelativeToolTip": "04.FoodDelivery\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T13:58:37.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\Automation QA\\Programming Fundamentals and Unit Testing\\VS Projects\\DataTypesVariablesConcepts-Exercise\\03.Redecorating\\Program.cs",
+              "RelativeDocumentMoniker": "03.Redecorating\\Program.cs",
+              "ToolTip": "C:\\Users\\Victor\\Desktop\\Automation QA\\Programming Fundamentals and Unit Testing\\VS Projects\\DataTypesVariablesConcepts-Exercise\\03.Redecorating\\Program.cs",
+              "RelativeToolTip": "03.Redecorating\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T12:58:11.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\Automation QA\\Programming Fundamentals and Unit Testing\\VS Projects\\DataTypesVariablesConcepts-Exercise\\01.ReversedNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "01.ReversedNumbers\\Program.cs",
+              "ToolTip": "C:\\Users\\Victor\\Desktop\\Automation QA\\Programming Fundamentals and Unit Testing\\VS Projects\\DataTypesVariablesConcepts-Exercise\\01.ReversedNumbers\\Program.cs",
+              "RelativeToolTip": "01.ReversedNumbers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T11:58:02.86Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

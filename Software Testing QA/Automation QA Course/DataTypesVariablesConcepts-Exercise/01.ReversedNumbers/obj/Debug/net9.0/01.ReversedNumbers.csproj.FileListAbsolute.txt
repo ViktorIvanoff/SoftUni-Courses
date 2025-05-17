@@ -1,0 +1,14 @@
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\DataTypesVariablesConcepts-Exercise\01.ReversedNumbers\bin\Debug\net9.0\01.ReversedNumbers.exe
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\DataTypesVariablesConcepts-Exercise\01.ReversedNumbers\bin\Debug\net9.0\01.ReversedNumbers.deps.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\DataTypesVariablesConcepts-Exercise\01.ReversedNumbers\bin\Debug\net9.0\01.ReversedNumbers.runtimeconfig.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\DataTypesVariablesConcepts-Exercise\01.ReversedNumbers\bin\Debug\net9.0\01.ReversedNumbers.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\DataTypesVariablesConcepts-Exercise\01.ReversedNumbers\bin\Debug\net9.0\01.ReversedNumbers.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\DataTypesVariablesConcepts-Exercise\01.ReversedNumbers\obj\Debug\net9.0\01.ReversedNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\DataTypesVariablesConcepts-Exercise\01.ReversedNumbers\obj\Debug\net9.0\01.ReversedNumbers.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\DataTypesVariablesConcepts-Exercise\01.ReversedNumbers\obj\Debug\net9.0\01.ReversedNumbers.AssemblyInfo.cs
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\DataTypesVariablesConcepts-Exercise\01.ReversedNumbers\obj\Debug\net9.0\01.ReversedNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\DataTypesVariablesConcepts-Exercise\01.ReversedNumbers\obj\Debug\net9.0\01.ReversedNumbers.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\DataTypesVariablesConcepts-Exercise\01.ReversedNumbers\obj\Debug\net9.0\refint\01.ReversedNumbers.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\DataTypesVariablesConcepts-Exercise\01.ReversedNumbers\obj\Debug\net9.0\01.ReversedNumbers.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\DataTypesVariablesConcepts-Exercise\01.ReversedNumbers\obj\Debug\net9.0\01.ReversedNumbers.genruntimeconfig.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\DataTypesVariablesConcepts-Exercise\01.ReversedNumbers\obj\Debug\net9.0\ref\01.ReversedNumbers.dll

@@ -1,0 +1,14 @@
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\DataTypesVariablesConcepts-Exercise\03.Redecorating\obj\Debug\net9.0\03.Redecorating.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\DataTypesVariablesConcepts-Exercise\03.Redecorating\obj\Debug\net9.0\03.Redecorating.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\DataTypesVariablesConcepts-Exercise\03.Redecorating\obj\Debug\net9.0\03.Redecorating.AssemblyInfo.cs
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\DataTypesVariablesConcepts-Exercise\03.Redecorating\obj\Debug\net9.0\03.Redecorating.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\DataTypesVariablesConcepts-Exercise\03.Redecorating\bin\Debug\net9.0\03.Redecorating.exe
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\DataTypesVariablesConcepts-Exercise\03.Redecorating\bin\Debug\net9.0\03.Redecorating.deps.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\DataTypesVariablesConcepts-Exercise\03.Redecorating\bin\Debug\net9.0\03.Redecorating.runtimeconfig.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\DataTypesVariablesConcepts-Exercise\03.Redecorating\bin\Debug\net9.0\03.Redecorating.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\DataTypesVariablesConcepts-Exercise\03.Redecorating\bin\Debug\net9.0\03.Redecorating.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\DataTypesVariablesConcepts-Exercise\03.Redecorating\obj\Debug\net9.0\03.Redecorating.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\DataTypesVariablesConcepts-Exercise\03.Redecorating\obj\Debug\net9.0\refint\03.Redecorating.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\DataTypesVariablesConcepts-Exercise\03.Redecorating\obj\Debug\net9.0\03.Redecorating.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\DataTypesVariablesConcepts-Exercise\03.Redecorating\obj\Debug\net9.0\03.Redecorating.genruntimeconfig.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\DataTypesVariablesConcepts-Exercise\03.Redecorating\obj\Debug\net9.0\ref\03.Redecorating.dll
