@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Victor\\Desktop\\Automation QA\\Programming Fundamentals and Unit Testing\\VS Projects\\KeyConcepts\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3077EEC-5169-4513-8EBA-C2A1D7AEE684}|07.SuppliesForSchool\\07.SuppliesForSchool.csproj|c:\\users\\victor\\desktop\\automation qa\\programming fundamentals and unit testing\\vs projects\\keyconcepts\\07.suppliesforschool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3077EEC-5169-4513-8EBA-C2A1D7AEE684}|07.SuppliesForSchool\\07.SuppliesForSchool.csproj|solutionrelative:07.suppliesforschool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91A3A67E-CF38-4C1A-ADBA-E28AA02942AC}|06.MandatoryLiterature\\06.MandatoryLiterature.csproj|c:\\users\\victor\\desktop\\automation qa\\programming fundamentals and unit testing\\vs projects\\keyconcepts\\06.mandatoryliterature\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91A3A67E-CF38-4C1A-ADBA-E28AA02942AC}|06.MandatoryLiterature\\06.MandatoryLiterature.csproj|solutionrelative:06.mandatoryliterature\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E4A3876-37D9-4F46-AF26-18F0C2D729E4}|05.DepositCalculator\\05.DepositCalculator.csproj|c:\\users\\victor\\desktop\\automation qa\\programming fundamentals and unit testing\\vs projects\\keyconcepts\\05.depositcalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E4A3876-37D9-4F46-AF26-18F0C2D729E4}|05.DepositCalculator\\05.DepositCalculator.csproj|solutionrelative:05.depositcalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51E693CA-BA36-4779-9E4C-9C9104216330}|04.Tiles\\04.Tiles.csproj|c:\\users\\victor\\desktop\\automation qa\\programming fundamentals and unit testing\\vs projects\\keyconcepts\\04.tiles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51E693CA-BA36-4779-9E4C-9C9104216330}|04.Tiles\\04.Tiles.csproj|solutionrelative:04.tiles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B39A4F-93BB-47CD-AC92-2B578C2A2EEC}|03.Market\\03.Market.csproj|c:\\users\\victor\\desktop\\automation qa\\programming fundamentals and unit testing\\vs projects\\keyconcepts\\03.market\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B39A4F-93BB-47CD-AC92-2B578C2A2EEC}|03.Market\\03.Market.csproj|solutionrelative:03.market\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE5BBD80-C5F4-4107-B301-480FA14466A3}|02.FourOperations\\02.FourOperations.csproj|c:\\users\\victor\\desktop\\automation qa\\programming fundamentals and unit testing\\vs projects\\keyconcepts\\02.fouroperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE5BBD80-C5F4-4107-B301-480FA14466A3}|02.FourOperations\\02.FourOperations.csproj|solutionrelative:02.fouroperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\Automation QA\\Programming Fundamentals and Unit Testing\\VS Projects\\KeyConcepts\\07.SuppliesForSchool\\Program.cs",
+              "RelativeDocumentMoniker": "07.SuppliesForSchool\\Program.cs",
+              "ToolTip": "C:\\Users\\Victor\\Desktop\\Automation QA\\Programming Fundamentals and Unit Testing\\VS Projects\\KeyConcepts\\07.SuppliesForSchool\\Program.cs",
+              "RelativeToolTip": "07.SuppliesForSchool\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T11:08:01.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\Automation QA\\Programming Fundamentals and Unit Testing\\VS Projects\\KeyConcepts\\06.MandatoryLiterature\\Program.cs",
+              "RelativeDocumentMoniker": "06.MandatoryLiterature\\Program.cs",
+              "ToolTip": "C:\\Users\\Victor\\Desktop\\Automation QA\\Programming Fundamentals and Unit Testing\\VS Projects\\KeyConcepts\\06.MandatoryLiterature\\Program.cs",
+              "RelativeToolTip": "06.MandatoryLiterature\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T11:01:37.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\Automation QA\\Programming Fundamentals and Unit Testing\\VS Projects\\KeyConcepts\\05.DepositCalculator\\Program.cs",
+              "RelativeDocumentMoniker": "05.DepositCalculator\\Program.cs",
+              "ToolTip": "C:\\Users\\Victor\\Desktop\\Automation QA\\Programming Fundamentals and Unit Testing\\VS Projects\\KeyConcepts\\05.DepositCalculator\\Program.cs",
+              "RelativeToolTip": "05.DepositCalculator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T10:46:13.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\Automation QA\\Programming Fundamentals and Unit Testing\\VS Projects\\KeyConcepts\\04.Tiles\\Program.cs",
+              "RelativeDocumentMoniker": "04.Tiles\\Program.cs",
+              "ToolTip": "C:\\Users\\Victor\\Desktop\\Automation QA\\Programming Fundamentals and Unit Testing\\VS Projects\\KeyConcepts\\04.Tiles\\Program.cs",
+              "RelativeToolTip": "04.Tiles\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T10:36:52.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\Automation QA\\Programming Fundamentals and Unit Testing\\VS Projects\\KeyConcepts\\03.Market\\Program.cs",
+              "RelativeDocumentMoniker": "03.Market\\Program.cs",
+              "ToolTip": "C:\\Users\\Victor\\Desktop\\Automation QA\\Programming Fundamentals and Unit Testing\\VS Projects\\KeyConcepts\\03.Market\\Program.cs",
+              "RelativeToolTip": "03.Market\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T10:29:03.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\Automation QA\\Programming Fundamentals and Unit Testing\\VS Projects\\KeyConcepts\\02.FourOperations\\Program.cs",
+              "RelativeDocumentMoniker": "02.FourOperations\\Program.cs",
+              "ToolTip": "C:\\Users\\Victor\\Desktop\\Automation QA\\Programming Fundamentals and Unit Testing\\VS Projects\\KeyConcepts\\02.FourOperations\\Program.cs",
+              "RelativeToolTip": "02.FourOperations\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T10:16:30.949Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\KeyConcepts\03.Market\bin\Debug\net9.0\03.Market.exe
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\KeyConcepts\03.Market\bin\Debug\net9.0\03.Market.deps.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\KeyConcepts\03.Market\bin\Debug\net9.0\03.Market.runtimeconfig.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\KeyConcepts\03.Market\bin\Debug\net9.0\03.Market.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\KeyConcepts\03.Market\bin\Debug\net9.0\03.Market.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\KeyConcepts\03.Market\obj\Debug\net9.0\03.Market.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\KeyConcepts\03.Market\obj\Debug\net9.0\03.Market.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\KeyConcepts\03.Market\obj\Debug\net9.0\03.Market.AssemblyInfo.cs
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\KeyConcepts\03.Market\obj\Debug\net9.0\03.Market.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\KeyConcepts\03.Market\obj\Debug\net9.0\03.Market.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\KeyConcepts\03.Market\obj\Debug\net9.0\refint\03.Market.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\KeyConcepts\03.Market\obj\Debug\net9.0\03.Market.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\KeyConcepts\03.Market\obj\Debug\net9.0\03.Market.genruntimeconfig.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\KeyConcepts\03.Market\obj\Debug\net9.0\ref\03.Market.dll

@@ -1,0 +1,14 @@
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\KeyConcepts\05.DepositCalculator\bin\Debug\net9.0\05.DepositCalculator.exe
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\KeyConcepts\05.DepositCalculator\bin\Debug\net9.0\05.DepositCalculator.deps.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\KeyConcepts\05.DepositCalculator\bin\Debug\net9.0\05.DepositCalculator.runtimeconfig.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\KeyConcepts\05.DepositCalculator\bin\Debug\net9.0\05.DepositCalculator.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\KeyConcepts\05.DepositCalculator\bin\Debug\net9.0\05.DepositCalculator.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\KeyConcepts\05.DepositCalculator\obj\Debug\net9.0\05.DepositCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\KeyConcepts\05.DepositCalculator\obj\Debug\net9.0\05.DepositCalculator.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\KeyConcepts\05.DepositCalculator\obj\Debug\net9.0\05.DepositCalculator.AssemblyInfo.cs
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\KeyConcepts\05.DepositCalculator\obj\Debug\net9.0\05.DepositCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\KeyConcepts\05.DepositCalculator\obj\Debug\net9.0\05.DepositCalculator.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\KeyConcepts\05.DepositCalculator\obj\Debug\net9.0\refint\05.DepositCalculator.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\KeyConcepts\05.DepositCalculator\obj\Debug\net9.0\05.DepositCalculator.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\KeyConcepts\05.DepositCalculator\obj\Debug\net9.0\05.DepositCalculator.genruntimeconfig.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\KeyConcepts\05.DepositCalculator\obj\Debug\net9.0\ref\05.DepositCalculator.dll

@@ -1,0 +1,14 @@
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\KeyConcepts\02.FourOperations\bin\Debug\net9.0\02.FourOperations.exe
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\KeyConcepts\02.FourOperations\bin\Debug\net9.0\02.FourOperations.deps.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\KeyConcepts\02.FourOperations\bin\Debug\net9.0\02.FourOperations.runtimeconfig.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\KeyConcepts\02.FourOperations\bin\Debug\net9.0\02.FourOperations.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\KeyConcepts\02.FourOperations\bin\Debug\net9.0\02.FourOperations.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\KeyConcepts\02.FourOperations\obj\Debug\net9.0\02.FourOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\KeyConcepts\02.FourOperations\obj\Debug\net9.0\02.FourOperations.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\KeyConcepts\02.FourOperations\obj\Debug\net9.0\02.FourOperations.AssemblyInfo.cs
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\KeyConcepts\02.FourOperations\obj\Debug\net9.0\02.FourOperations.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\KeyConcepts\02.FourOperations\obj\Debug\net9.0\02.FourOperations.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\KeyConcepts\02.FourOperations\obj\Debug\net9.0\refint\02.FourOperations.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\KeyConcepts\02.FourOperations\obj\Debug\net9.0\02.FourOperations.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\KeyConcepts\02.FourOperations\obj\Debug\net9.0\02.FourOperations.genruntimeconfig.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\KeyConcepts\02.FourOperations\obj\Debug\net9.0\ref\02.FourOperations.dll

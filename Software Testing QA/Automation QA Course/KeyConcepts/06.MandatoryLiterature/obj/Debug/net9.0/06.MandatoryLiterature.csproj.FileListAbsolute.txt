@@ -1,0 +1,14 @@
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\KeyConcepts\06.MandatoryLiterature\bin\Debug\net9.0\06.MandatoryLiterature.exe
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\KeyConcepts\06.MandatoryLiterature\bin\Debug\net9.0\06.MandatoryLiterature.deps.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\KeyConcepts\06.MandatoryLiterature\bin\Debug\net9.0\06.MandatoryLiterature.runtimeconfig.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\KeyConcepts\06.MandatoryLiterature\bin\Debug\net9.0\06.MandatoryLiterature.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\KeyConcepts\06.MandatoryLiterature\bin\Debug\net9.0\06.MandatoryLiterature.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\KeyConcepts\06.MandatoryLiterature\obj\Debug\net9.0\06.MandatoryLiterature.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\KeyConcepts\06.MandatoryLiterature\obj\Debug\net9.0\06.MandatoryLiterature.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\KeyConcepts\06.MandatoryLiterature\obj\Debug\net9.0\06.MandatoryLiterature.AssemblyInfo.cs
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\KeyConcepts\06.MandatoryLiterature\obj\Debug\net9.0\06.MandatoryLiterature.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\KeyConcepts\06.MandatoryLiterature\obj\Debug\net9.0\06.MandatoryLiterature.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\KeyConcepts\06.MandatoryLiterature\obj\Debug\net9.0\refint\06.MandatoryLiterature.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\KeyConcepts\06.MandatoryLiterature\obj\Debug\net9.0\06.MandatoryLiterature.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\KeyConcepts\06.MandatoryLiterature\obj\Debug\net9.0\06.MandatoryLiterature.genruntimeconfig.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\KeyConcepts\06.MandatoryLiterature\obj\Debug\net9.0\ref\06.MandatoryLiterature.dll
