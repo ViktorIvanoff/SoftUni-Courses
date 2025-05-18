@@ -1,0 +1,14 @@
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ComplexConditionalStatements\05.InvalidNumber\bin\Debug\net9.0\05.InvalidNumber.exe
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ComplexConditionalStatements\05.InvalidNumber\bin\Debug\net9.0\05.InvalidNumber.deps.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ComplexConditionalStatements\05.InvalidNumber\bin\Debug\net9.0\05.InvalidNumber.runtimeconfig.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ComplexConditionalStatements\05.InvalidNumber\bin\Debug\net9.0\05.InvalidNumber.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ComplexConditionalStatements\05.InvalidNumber\bin\Debug\net9.0\05.InvalidNumber.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ComplexConditionalStatements\05.InvalidNumber\obj\Debug\net9.0\05.InvalidNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ComplexConditionalStatements\05.InvalidNumber\obj\Debug\net9.0\05.InvalidNumber.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ComplexConditionalStatements\05.InvalidNumber\obj\Debug\net9.0\05.InvalidNumber.AssemblyInfo.cs
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ComplexConditionalStatements\05.InvalidNumber\obj\Debug\net9.0\05.InvalidNumber.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ComplexConditionalStatements\05.InvalidNumber\obj\Debug\net9.0\05.InvalidNumber.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ComplexConditionalStatements\05.InvalidNumber\obj\Debug\net9.0\refint\05.InvalidNumber.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ComplexConditionalStatements\05.InvalidNumber\obj\Debug\net9.0\05.InvalidNumber.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ComplexConditionalStatements\05.InvalidNumber\obj\Debug\net9.0\05.InvalidNumber.genruntimeconfig.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ComplexConditionalStatements\05.InvalidNumber\obj\Debug\net9.0\ref\05.InvalidNumber.dll

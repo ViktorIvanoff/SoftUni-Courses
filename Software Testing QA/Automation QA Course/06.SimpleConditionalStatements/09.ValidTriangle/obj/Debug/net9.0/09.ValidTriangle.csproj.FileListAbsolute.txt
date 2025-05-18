@@ -1,0 +1,14 @@
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\06.SimpleConditionalStatements\09.ValidTriangle\bin\Debug\net9.0\09.ValidTriangle.exe
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\06.SimpleConditionalStatements\09.ValidTriangle\bin\Debug\net9.0\09.ValidTriangle.deps.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\06.SimpleConditionalStatements\09.ValidTriangle\bin\Debug\net9.0\09.ValidTriangle.runtimeconfig.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\06.SimpleConditionalStatements\09.ValidTriangle\bin\Debug\net9.0\09.ValidTriangle.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\06.SimpleConditionalStatements\09.ValidTriangle\bin\Debug\net9.0\09.ValidTriangle.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\06.SimpleConditionalStatements\09.ValidTriangle\obj\Debug\net9.0\09.ValidTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\06.SimpleConditionalStatements\09.ValidTriangle\obj\Debug\net9.0\09.ValidTriangle.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\06.SimpleConditionalStatements\09.ValidTriangle\obj\Debug\net9.0\09.ValidTriangle.AssemblyInfo.cs
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\06.SimpleConditionalStatements\09.ValidTriangle\obj\Debug\net9.0\09.ValidTriangle.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\06.SimpleConditionalStatements\09.ValidTriangle\obj\Debug\net9.0\09.ValidTriangle.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\06.SimpleConditionalStatements\09.ValidTriangle\obj\Debug\net9.0\refint\09.ValidTriangle.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\06.SimpleConditionalStatements\09.ValidTriangle\obj\Debug\net9.0\09.ValidTriangle.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\06.SimpleConditionalStatements\09.ValidTriangle\obj\Debug\net9.0\09.ValidTriangle.genruntimeconfig.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\06.SimpleConditionalStatements\09.ValidTriangle\obj\Debug\net9.0\ref\09.ValidTriangle.dll

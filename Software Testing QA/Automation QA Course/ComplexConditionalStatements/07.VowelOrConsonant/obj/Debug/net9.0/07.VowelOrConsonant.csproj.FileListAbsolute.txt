@@ -1,0 +1,14 @@
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ComplexConditionalStatements\07.VowelOrConsonant\bin\Debug\net9.0\07.VowelOrConsonant.exe
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ComplexConditionalStatements\07.VowelOrConsonant\bin\Debug\net9.0\07.VowelOrConsonant.deps.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ComplexConditionalStatements\07.VowelOrConsonant\bin\Debug\net9.0\07.VowelOrConsonant.runtimeconfig.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ComplexConditionalStatements\07.VowelOrConsonant\bin\Debug\net9.0\07.VowelOrConsonant.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ComplexConditionalStatements\07.VowelOrConsonant\bin\Debug\net9.0\07.VowelOrConsonant.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ComplexConditionalStatements\07.VowelOrConsonant\obj\Debug\net9.0\07.VowelOrConsonant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ComplexConditionalStatements\07.VowelOrConsonant\obj\Debug\net9.0\07.VowelOrConsonant.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ComplexConditionalStatements\07.VowelOrConsonant\obj\Debug\net9.0\07.VowelOrConsonant.AssemblyInfo.cs
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ComplexConditionalStatements\07.VowelOrConsonant\obj\Debug\net9.0\07.VowelOrConsonant.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ComplexConditionalStatements\07.VowelOrConsonant\obj\Debug\net9.0\07.VowelOrConsonant.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ComplexConditionalStatements\07.VowelOrConsonant\obj\Debug\net9.0\refint\07.VowelOrConsonant.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ComplexConditionalStatements\07.VowelOrConsonant\obj\Debug\net9.0\07.VowelOrConsonant.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ComplexConditionalStatements\07.VowelOrConsonant\obj\Debug\net9.0\07.VowelOrConsonant.genruntimeconfig.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ComplexConditionalStatements\07.VowelOrConsonant\obj\Debug\net9.0\ref\07.VowelOrConsonant.dll

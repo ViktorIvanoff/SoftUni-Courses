@@ -1,0 +1,14 @@
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\06.SimpleConditionalStatements\06.BoilingWater\bin\Debug\net9.0\06.BoilingWater.exe
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\06.SimpleConditionalStatements\06.BoilingWater\bin\Debug\net9.0\06.BoilingWater.deps.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\06.SimpleConditionalStatements\06.BoilingWater\bin\Debug\net9.0\06.BoilingWater.runtimeconfig.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\06.SimpleConditionalStatements\06.BoilingWater\bin\Debug\net9.0\06.BoilingWater.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\06.SimpleConditionalStatements\06.BoilingWater\bin\Debug\net9.0\06.BoilingWater.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\06.SimpleConditionalStatements\06.BoilingWater\obj\Debug\net9.0\06.BoilingWater.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\06.SimpleConditionalStatements\06.BoilingWater\obj\Debug\net9.0\06.BoilingWater.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\06.SimpleConditionalStatements\06.BoilingWater\obj\Debug\net9.0\06.BoilingWater.AssemblyInfo.cs
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\06.SimpleConditionalStatements\06.BoilingWater\obj\Debug\net9.0\06.BoilingWater.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\06.SimpleConditionalStatements\06.BoilingWater\obj\Debug\net9.0\06.BoilingWater.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\06.SimpleConditionalStatements\06.BoilingWater\obj\Debug\net9.0\refint\06.BoilingWater.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\06.SimpleConditionalStatements\06.BoilingWater\obj\Debug\net9.0\06.BoilingWater.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\06.SimpleConditionalStatements\06.BoilingWater\obj\Debug\net9.0\06.BoilingWater.genruntimeconfig.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\06.SimpleConditionalStatements\06.BoilingWater\obj\Debug\net9.0\ref\06.BoilingWater.dll

@@ -1,0 +1,14 @@
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ComplexConditionalStatements\06.DayOfWeek\obj\Debug\net9.0\06.DayOfWeek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ComplexConditionalStatements\06.DayOfWeek\obj\Debug\net9.0\06.DayOfWeek.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ComplexConditionalStatements\06.DayOfWeek\obj\Debug\net9.0\06.DayOfWeek.AssemblyInfo.cs
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ComplexConditionalStatements\06.DayOfWeek\obj\Debug\net9.0\06.DayOfWeek.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ComplexConditionalStatements\06.DayOfWeek\bin\Debug\net9.0\06.DayOfWeek.exe
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ComplexConditionalStatements\06.DayOfWeek\bin\Debug\net9.0\06.DayOfWeek.deps.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ComplexConditionalStatements\06.DayOfWeek\bin\Debug\net9.0\06.DayOfWeek.runtimeconfig.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ComplexConditionalStatements\06.DayOfWeek\bin\Debug\net9.0\06.DayOfWeek.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ComplexConditionalStatements\06.DayOfWeek\bin\Debug\net9.0\06.DayOfWeek.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ComplexConditionalStatements\06.DayOfWeek\obj\Debug\net9.0\06.DayOfWeek.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ComplexConditionalStatements\06.DayOfWeek\obj\Debug\net9.0\refint\06.DayOfWeek.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ComplexConditionalStatements\06.DayOfWeek\obj\Debug\net9.0\06.DayOfWeek.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ComplexConditionalStatements\06.DayOfWeek\obj\Debug\net9.0\06.DayOfWeek.genruntimeconfig.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ComplexConditionalStatements\06.DayOfWeek\obj\Debug\net9.0\ref\06.DayOfWeek.dll

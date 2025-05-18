@@ -1,0 +1,14 @@
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\06.SimpleConditionalStatements\04.GreaterNumber\bin\Debug\net9.0\04.GreaterNumber.exe
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\06.SimpleConditionalStatements\04.GreaterNumber\bin\Debug\net9.0\04.GreaterNumber.deps.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\06.SimpleConditionalStatements\04.GreaterNumber\bin\Debug\net9.0\04.GreaterNumber.runtimeconfig.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\06.SimpleConditionalStatements\04.GreaterNumber\bin\Debug\net9.0\04.GreaterNumber.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\06.SimpleConditionalStatements\04.GreaterNumber\bin\Debug\net9.0\04.GreaterNumber.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\06.SimpleConditionalStatements\04.GreaterNumber\obj\Debug\net9.0\04.GreaterNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\06.SimpleConditionalStatements\04.GreaterNumber\obj\Debug\net9.0\04.GreaterNumber.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\06.SimpleConditionalStatements\04.GreaterNumber\obj\Debug\net9.0\04.GreaterNumber.AssemblyInfo.cs
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\06.SimpleConditionalStatements\04.GreaterNumber\obj\Debug\net9.0\04.GreaterNumber.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\06.SimpleConditionalStatements\04.GreaterNumber\obj\Debug\net9.0\04.GreaterNumber.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\06.SimpleConditionalStatements\04.GreaterNumber\obj\Debug\net9.0\refint\04.GreaterNumber.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\06.SimpleConditionalStatements\04.GreaterNumber\obj\Debug\net9.0\04.GreaterNumber.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\06.SimpleConditionalStatements\04.GreaterNumber\obj\Debug\net9.0\04.GreaterNumber.genruntimeconfig.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\06.SimpleConditionalStatements\04.GreaterNumber\obj\Debug\net9.0\ref\04.GreaterNumber.dll

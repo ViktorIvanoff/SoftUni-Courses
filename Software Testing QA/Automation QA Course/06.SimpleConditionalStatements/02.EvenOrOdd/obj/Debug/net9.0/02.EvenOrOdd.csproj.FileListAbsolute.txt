@@ -1,0 +1,14 @@
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\06.SimpleConditionalStatements\02.EvenOrOdd\bin\Debug\net9.0\02.EvenOrOdd.exe
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\06.SimpleConditionalStatements\02.EvenOrOdd\bin\Debug\net9.0\02.EvenOrOdd.deps.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\06.SimpleConditionalStatements\02.EvenOrOdd\bin\Debug\net9.0\02.EvenOrOdd.runtimeconfig.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\06.SimpleConditionalStatements\02.EvenOrOdd\bin\Debug\net9.0\02.EvenOrOdd.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\06.SimpleConditionalStatements\02.EvenOrOdd\bin\Debug\net9.0\02.EvenOrOdd.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\06.SimpleConditionalStatements\02.EvenOrOdd\obj\Debug\net9.0\02.EvenOrOdd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\06.SimpleConditionalStatements\02.EvenOrOdd\obj\Debug\net9.0\02.EvenOrOdd.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\06.SimpleConditionalStatements\02.EvenOrOdd\obj\Debug\net9.0\02.EvenOrOdd.AssemblyInfo.cs
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\06.SimpleConditionalStatements\02.EvenOrOdd\obj\Debug\net9.0\02.EvenOrOdd.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\06.SimpleConditionalStatements\02.EvenOrOdd\obj\Debug\net9.0\02.EvenOrOdd.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\06.SimpleConditionalStatements\02.EvenOrOdd\obj\Debug\net9.0\refint\02.EvenOrOdd.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\06.SimpleConditionalStatements\02.EvenOrOdd\obj\Debug\net9.0\02.EvenOrOdd.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\06.SimpleConditionalStatements\02.EvenOrOdd\obj\Debug\net9.0\02.EvenOrOdd.genruntimeconfig.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\06.SimpleConditionalStatements\02.EvenOrOdd\obj\Debug\net9.0\ref\02.EvenOrOdd.dll

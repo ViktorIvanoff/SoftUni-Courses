@@ -1,0 +1,14 @@
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ComplexConditionalStatements\08.SortedNumbers\bin\Debug\net9.0\08.SortedNumbers.exe
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ComplexConditionalStatements\08.SortedNumbers\bin\Debug\net9.0\08.SortedNumbers.deps.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ComplexConditionalStatements\08.SortedNumbers\bin\Debug\net9.0\08.SortedNumbers.runtimeconfig.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ComplexConditionalStatements\08.SortedNumbers\bin\Debug\net9.0\08.SortedNumbers.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ComplexConditionalStatements\08.SortedNumbers\bin\Debug\net9.0\08.SortedNumbers.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ComplexConditionalStatements\08.SortedNumbers\obj\Debug\net9.0\08.SortedNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ComplexConditionalStatements\08.SortedNumbers\obj\Debug\net9.0\08.SortedNumbers.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ComplexConditionalStatements\08.SortedNumbers\obj\Debug\net9.0\08.SortedNumbers.AssemblyInfo.cs
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ComplexConditionalStatements\08.SortedNumbers\obj\Debug\net9.0\08.SortedNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ComplexConditionalStatements\08.SortedNumbers\obj\Debug\net9.0\08.SortedNumbers.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ComplexConditionalStatements\08.SortedNumbers\obj\Debug\net9.0\refint\08.SortedNumbers.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ComplexConditionalStatements\08.SortedNumbers\obj\Debug\net9.0\08.SortedNumbers.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ComplexConditionalStatements\08.SortedNumbers\obj\Debug\net9.0\08.SortedNumbers.genruntimeconfig.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ComplexConditionalStatements\08.SortedNumbers\obj\Debug\net9.0\ref\08.SortedNumbers.dll
