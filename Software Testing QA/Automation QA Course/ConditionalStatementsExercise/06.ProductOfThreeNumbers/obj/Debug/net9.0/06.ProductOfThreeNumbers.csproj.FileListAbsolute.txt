@@ -1,0 +1,14 @@
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ConditionalStatementsExercise\06.ProductOfThreeNumbers\bin\Debug\net9.0\06.ProductOfThreeNumbers.exe
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ConditionalStatementsExercise\06.ProductOfThreeNumbers\bin\Debug\net9.0\06.ProductOfThreeNumbers.deps.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ConditionalStatementsExercise\06.ProductOfThreeNumbers\bin\Debug\net9.0\06.ProductOfThreeNumbers.runtimeconfig.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ConditionalStatementsExercise\06.ProductOfThreeNumbers\bin\Debug\net9.0\06.ProductOfThreeNumbers.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ConditionalStatementsExercise\06.ProductOfThreeNumbers\bin\Debug\net9.0\06.ProductOfThreeNumbers.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ConditionalStatementsExercise\06.ProductOfThreeNumbers\obj\Debug\net9.0\06.ProductOfThreeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ConditionalStatementsExercise\06.ProductOfThreeNumbers\obj\Debug\net9.0\06.ProductOfThreeNumbers.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ConditionalStatementsExercise\06.ProductOfThreeNumbers\obj\Debug\net9.0\06.ProductOfThreeNumbers.AssemblyInfo.cs
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ConditionalStatementsExercise\06.ProductOfThreeNumbers\obj\Debug\net9.0\06.ProductOfThreeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ConditionalStatementsExercise\06.ProductOfThreeNumbers\obj\Debug\net9.0\06.ProductOfThreeNumbers.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ConditionalStatementsExercise\06.ProductOfThreeNumbers\obj\Debug\net9.0\refint\06.ProductOfThreeNumbers.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ConditionalStatementsExercise\06.ProductOfThreeNumbers\obj\Debug\net9.0\06.ProductOfThreeNumbers.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ConditionalStatementsExercise\06.ProductOfThreeNumbers\obj\Debug\net9.0\06.ProductOfThreeNumbers.genruntimeconfig.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ConditionalStatementsExercise\06.ProductOfThreeNumbers\obj\Debug\net9.0\ref\06.ProductOfThreeNumbers.dll

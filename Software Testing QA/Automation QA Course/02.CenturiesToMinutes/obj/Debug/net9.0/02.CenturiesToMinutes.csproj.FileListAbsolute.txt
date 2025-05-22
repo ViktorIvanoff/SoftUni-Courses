@@ -1,0 +1,14 @@
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\02.CenturiesToMinutes\bin\Debug\net9.0\02.CenturiesToMinutes.exe
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\02.CenturiesToMinutes\bin\Debug\net9.0\02.CenturiesToMinutes.deps.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\02.CenturiesToMinutes\bin\Debug\net9.0\02.CenturiesToMinutes.runtimeconfig.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\02.CenturiesToMinutes\bin\Debug\net9.0\02.CenturiesToMinutes.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\02.CenturiesToMinutes\bin\Debug\net9.0\02.CenturiesToMinutes.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\02.CenturiesToMinutes\obj\Debug\net9.0\02.CenturiesToMinutes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\02.CenturiesToMinutes\obj\Debug\net9.0\02.CenturiesToMinutes.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\02.CenturiesToMinutes\obj\Debug\net9.0\02.CenturiesToMinutes.AssemblyInfo.cs
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\02.CenturiesToMinutes\obj\Debug\net9.0\02.CenturiesToMinutes.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\02.CenturiesToMinutes\obj\Debug\net9.0\02.CenturiesToMinutes.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\02.CenturiesToMinutes\obj\Debug\net9.0\refint\02.CenturiesToMinutes.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\02.CenturiesToMinutes\obj\Debug\net9.0\02.CenturiesToMinutes.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\02.CenturiesToMinutes\obj\Debug\net9.0\02.CenturiesToMinutes.genruntimeconfig.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\02.CenturiesToMinutes\obj\Debug\net9.0\ref\02.CenturiesToMinutes.dll

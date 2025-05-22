@@ -1,0 +1,14 @@
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\LoopsExercise\07.SpecialNumber\bin\Debug\net9.0\07.SpecialNumber.exe
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\LoopsExercise\07.SpecialNumber\bin\Debug\net9.0\07.SpecialNumber.deps.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\LoopsExercise\07.SpecialNumber\bin\Debug\net9.0\07.SpecialNumber.runtimeconfig.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\LoopsExercise\07.SpecialNumber\bin\Debug\net9.0\07.SpecialNumber.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\LoopsExercise\07.SpecialNumber\bin\Debug\net9.0\07.SpecialNumber.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\LoopsExercise\07.SpecialNumber\obj\Debug\net9.0\07.SpecialNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\LoopsExercise\07.SpecialNumber\obj\Debug\net9.0\07.SpecialNumber.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\LoopsExercise\07.SpecialNumber\obj\Debug\net9.0\07.SpecialNumber.AssemblyInfo.cs
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\LoopsExercise\07.SpecialNumber\obj\Debug\net9.0\07.SpecialNumber.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\LoopsExercise\07.SpecialNumber\obj\Debug\net9.0\07.SpecialNumber.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\LoopsExercise\07.SpecialNumber\obj\Debug\net9.0\refint\07.SpecialNumber.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\LoopsExercise\07.SpecialNumber\obj\Debug\net9.0\07.SpecialNumber.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\LoopsExercise\07.SpecialNumber\obj\Debug\net9.0\07.SpecialNumber.genruntimeconfig.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\LoopsExercise\07.SpecialNumber\obj\Debug\net9.0\ref\07.SpecialNumber.dll

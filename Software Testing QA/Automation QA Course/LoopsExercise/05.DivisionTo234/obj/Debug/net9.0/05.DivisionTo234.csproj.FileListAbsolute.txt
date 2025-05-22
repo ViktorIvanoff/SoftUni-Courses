@@ -1,0 +1,14 @@
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\LoopsExercise\05.DivisionTo234\bin\Debug\net9.0\05.DivisionTo234.exe
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\LoopsExercise\05.DivisionTo234\bin\Debug\net9.0\05.DivisionTo234.deps.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\LoopsExercise\05.DivisionTo234\bin\Debug\net9.0\05.DivisionTo234.runtimeconfig.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\LoopsExercise\05.DivisionTo234\bin\Debug\net9.0\05.DivisionTo234.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\LoopsExercise\05.DivisionTo234\bin\Debug\net9.0\05.DivisionTo234.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\LoopsExercise\05.DivisionTo234\obj\Debug\net9.0\05.DivisionTo234.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\LoopsExercise\05.DivisionTo234\obj\Debug\net9.0\05.DivisionTo234.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\LoopsExercise\05.DivisionTo234\obj\Debug\net9.0\05.DivisionTo234.AssemblyInfo.cs
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\LoopsExercise\05.DivisionTo234\obj\Debug\net9.0\05.DivisionTo234.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\LoopsExercise\05.DivisionTo234\obj\Debug\net9.0\05.DivisionTo234.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\LoopsExercise\05.DivisionTo234\obj\Debug\net9.0\refint\05.DivisionTo234.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\LoopsExercise\05.DivisionTo234\obj\Debug\net9.0\05.DivisionTo234.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\LoopsExercise\05.DivisionTo234\obj\Debug\net9.0\05.DivisionTo234.genruntimeconfig.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\LoopsExercise\05.DivisionTo234\obj\Debug\net9.0\ref\05.DivisionTo234.dll

@@ -1,0 +1,14 @@
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ForLoop-Lab\NumbersInRangeWhileLoop\bin\Debug\net9.0\NumbersInRangeWhileLoop.exe
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ForLoop-Lab\NumbersInRangeWhileLoop\bin\Debug\net9.0\NumbersInRangeWhileLoop.deps.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ForLoop-Lab\NumbersInRangeWhileLoop\bin\Debug\net9.0\NumbersInRangeWhileLoop.runtimeconfig.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ForLoop-Lab\NumbersInRangeWhileLoop\bin\Debug\net9.0\NumbersInRangeWhileLoop.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ForLoop-Lab\NumbersInRangeWhileLoop\bin\Debug\net9.0\NumbersInRangeWhileLoop.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ForLoop-Lab\NumbersInRangeWhileLoop\obj\Debug\net9.0\NumbersInRangeWhileLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ForLoop-Lab\NumbersInRangeWhileLoop\obj\Debug\net9.0\NumbersInRangeWhileLoop.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ForLoop-Lab\NumbersInRangeWhileLoop\obj\Debug\net9.0\NumbersInRangeWhileLoop.AssemblyInfo.cs
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ForLoop-Lab\NumbersInRangeWhileLoop\obj\Debug\net9.0\NumbersInRangeWhileLoop.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ForLoop-Lab\NumbersInRangeWhileLoop\obj\Debug\net9.0\NumbersInRangeWhileLoop.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ForLoop-Lab\NumbersInRangeWhileLoop\obj\Debug\net9.0\refint\NumbersInRangeWhileLoop.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ForLoop-Lab\NumbersInRangeWhileLoop\obj\Debug\net9.0\NumbersInRangeWhileLoop.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ForLoop-Lab\NumbersInRangeWhileLoop\obj\Debug\net9.0\NumbersInRangeWhileLoop.genruntimeconfig.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ForLoop-Lab\NumbersInRangeWhileLoop\obj\Debug\net9.0\ref\NumbersInRangeWhileLoop.dll

@@ -1,0 +1,14 @@
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ConditionalStatementsExercise\08.SumSeconds\bin\Debug\net9.0\08.SumSeconds.exe
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ConditionalStatementsExercise\08.SumSeconds\bin\Debug\net9.0\08.SumSeconds.deps.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ConditionalStatementsExercise\08.SumSeconds\bin\Debug\net9.0\08.SumSeconds.runtimeconfig.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ConditionalStatementsExercise\08.SumSeconds\bin\Debug\net9.0\08.SumSeconds.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ConditionalStatementsExercise\08.SumSeconds\bin\Debug\net9.0\08.SumSeconds.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ConditionalStatementsExercise\08.SumSeconds\obj\Debug\net9.0\08.SumSeconds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ConditionalStatementsExercise\08.SumSeconds\obj\Debug\net9.0\08.SumSeconds.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ConditionalStatementsExercise\08.SumSeconds\obj\Debug\net9.0\08.SumSeconds.AssemblyInfo.cs
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ConditionalStatementsExercise\08.SumSeconds\obj\Debug\net9.0\08.SumSeconds.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ConditionalStatementsExercise\08.SumSeconds\obj\Debug\net9.0\08.SumSeconds.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ConditionalStatementsExercise\08.SumSeconds\obj\Debug\net9.0\refint\08.SumSeconds.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ConditionalStatementsExercise\08.SumSeconds\obj\Debug\net9.0\08.SumSeconds.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ConditionalStatementsExercise\08.SumSeconds\obj\Debug\net9.0\08.SumSeconds.genruntimeconfig.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ConditionalStatementsExercise\08.SumSeconds\obj\Debug\net9.0\ref\08.SumSeconds.dll

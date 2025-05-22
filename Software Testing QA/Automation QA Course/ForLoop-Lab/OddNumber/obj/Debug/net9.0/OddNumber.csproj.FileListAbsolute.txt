@@ -1,0 +1,14 @@
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ForLoop-Lab\OddNumber\bin\Debug\net9.0\OddNumber.exe
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ForLoop-Lab\OddNumber\bin\Debug\net9.0\OddNumber.deps.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ForLoop-Lab\OddNumber\bin\Debug\net9.0\OddNumber.runtimeconfig.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ForLoop-Lab\OddNumber\bin\Debug\net9.0\OddNumber.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ForLoop-Lab\OddNumber\bin\Debug\net9.0\OddNumber.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ForLoop-Lab\OddNumber\obj\Debug\net9.0\OddNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ForLoop-Lab\OddNumber\obj\Debug\net9.0\OddNumber.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ForLoop-Lab\OddNumber\obj\Debug\net9.0\OddNumber.AssemblyInfo.cs
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ForLoop-Lab\OddNumber\obj\Debug\net9.0\OddNumber.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ForLoop-Lab\OddNumber\obj\Debug\net9.0\OddNumber.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ForLoop-Lab\OddNumber\obj\Debug\net9.0\refint\OddNumber.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ForLoop-Lab\OddNumber\obj\Debug\net9.0\OddNumber.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ForLoop-Lab\OddNumber\obj\Debug\net9.0\OddNumber.genruntimeconfig.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ForLoop-Lab\OddNumber\obj\Debug\net9.0\ref\OddNumber.dll

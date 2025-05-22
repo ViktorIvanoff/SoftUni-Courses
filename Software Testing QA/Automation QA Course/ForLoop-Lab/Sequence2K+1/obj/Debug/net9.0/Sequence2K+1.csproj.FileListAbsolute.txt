@@ -1,0 +1,14 @@
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ForLoop-Lab\Sequence2K+1\bin\Debug\net9.0\Sequence2K+1.exe
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ForLoop-Lab\Sequence2K+1\bin\Debug\net9.0\Sequence2K+1.deps.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ForLoop-Lab\Sequence2K+1\bin\Debug\net9.0\Sequence2K+1.runtimeconfig.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ForLoop-Lab\Sequence2K+1\bin\Debug\net9.0\Sequence2K+1.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ForLoop-Lab\Sequence2K+1\bin\Debug\net9.0\Sequence2K+1.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ForLoop-Lab\Sequence2K+1\obj\Debug\net9.0\Sequence2K+1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ForLoop-Lab\Sequence2K+1\obj\Debug\net9.0\Sequence2K+1.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ForLoop-Lab\Sequence2K+1\obj\Debug\net9.0\Sequence2K+1.AssemblyInfo.cs
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ForLoop-Lab\Sequence2K+1\obj\Debug\net9.0\Sequence2K+1.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ForLoop-Lab\Sequence2K+1\obj\Debug\net9.0\Sequence2K+1.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ForLoop-Lab\Sequence2K+1\obj\Debug\net9.0\refint\Sequence2K+1.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ForLoop-Lab\Sequence2K+1\obj\Debug\net9.0\Sequence2K+1.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ForLoop-Lab\Sequence2K+1\obj\Debug\net9.0\Sequence2K+1.genruntimeconfig.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ForLoop-Lab\Sequence2K+1\obj\Debug\net9.0\ref\Sequence2K+1.dll

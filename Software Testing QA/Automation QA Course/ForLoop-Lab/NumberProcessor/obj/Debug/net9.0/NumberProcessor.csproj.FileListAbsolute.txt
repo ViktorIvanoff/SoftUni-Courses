@@ -1,0 +1,14 @@
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ForLoop-Lab\NumberProcessor\bin\Debug\net9.0\NumberProcessor.exe
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ForLoop-Lab\NumberProcessor\bin\Debug\net9.0\NumberProcessor.deps.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ForLoop-Lab\NumberProcessor\bin\Debug\net9.0\NumberProcessor.runtimeconfig.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ForLoop-Lab\NumberProcessor\bin\Debug\net9.0\NumberProcessor.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ForLoop-Lab\NumberProcessor\bin\Debug\net9.0\NumberProcessor.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ForLoop-Lab\NumberProcessor\obj\Debug\net9.0\NumberProcessor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ForLoop-Lab\NumberProcessor\obj\Debug\net9.0\NumberProcessor.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ForLoop-Lab\NumberProcessor\obj\Debug\net9.0\NumberProcessor.AssemblyInfo.cs
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ForLoop-Lab\NumberProcessor\obj\Debug\net9.0\NumberProcessor.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ForLoop-Lab\NumberProcessor\obj\Debug\net9.0\NumberProcessor.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ForLoop-Lab\NumberProcessor\obj\Debug\net9.0\refint\NumberProcessor.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ForLoop-Lab\NumberProcessor\obj\Debug\net9.0\NumberProcessor.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ForLoop-Lab\NumberProcessor\obj\Debug\net9.0\NumberProcessor.genruntimeconfig.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ForLoop-Lab\NumberProcessor\obj\Debug\net9.0\ref\NumberProcessor.dll

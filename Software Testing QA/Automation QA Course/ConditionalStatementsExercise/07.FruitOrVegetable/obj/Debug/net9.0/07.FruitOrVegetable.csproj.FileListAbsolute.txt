@@ -1,0 +1,14 @@
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ConditionalStatementsExercise\07.FruitOrVegetable\bin\Debug\net9.0\07.FruitOrVegetable.exe
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ConditionalStatementsExercise\07.FruitOrVegetable\bin\Debug\net9.0\07.FruitOrVegetable.deps.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ConditionalStatementsExercise\07.FruitOrVegetable\bin\Debug\net9.0\07.FruitOrVegetable.runtimeconfig.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ConditionalStatementsExercise\07.FruitOrVegetable\bin\Debug\net9.0\07.FruitOrVegetable.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ConditionalStatementsExercise\07.FruitOrVegetable\bin\Debug\net9.0\07.FruitOrVegetable.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ConditionalStatementsExercise\07.FruitOrVegetable\obj\Debug\net9.0\07.FruitOrVegetable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ConditionalStatementsExercise\07.FruitOrVegetable\obj\Debug\net9.0\07.FruitOrVegetable.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ConditionalStatementsExercise\07.FruitOrVegetable\obj\Debug\net9.0\07.FruitOrVegetable.AssemblyInfo.cs
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ConditionalStatementsExercise\07.FruitOrVegetable\obj\Debug\net9.0\07.FruitOrVegetable.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ConditionalStatementsExercise\07.FruitOrVegetable\obj\Debug\net9.0\07.FruitOrVegetable.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ConditionalStatementsExercise\07.FruitOrVegetable\obj\Debug\net9.0\refint\07.FruitOrVegetable.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ConditionalStatementsExercise\07.FruitOrVegetable\obj\Debug\net9.0\07.FruitOrVegetable.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ConditionalStatementsExercise\07.FruitOrVegetable\obj\Debug\net9.0\07.FruitOrVegetable.genruntimeconfig.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ConditionalStatementsExercise\07.FruitOrVegetable\obj\Debug\net9.0\ref\07.FruitOrVegetable.dll

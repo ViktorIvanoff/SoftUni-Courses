@@ -1,0 +1,14 @@
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ForLoop-Lab\SumDigits\obj\Debug\net9.0\SumDigits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ForLoop-Lab\SumDigits\obj\Debug\net9.0\SumDigits.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ForLoop-Lab\SumDigits\obj\Debug\net9.0\SumDigits.AssemblyInfo.cs
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ForLoop-Lab\SumDigits\obj\Debug\net9.0\SumDigits.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ForLoop-Lab\SumDigits\bin\Debug\net9.0\SumDigits.exe
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ForLoop-Lab\SumDigits\bin\Debug\net9.0\SumDigits.deps.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ForLoop-Lab\SumDigits\bin\Debug\net9.0\SumDigits.runtimeconfig.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ForLoop-Lab\SumDigits\bin\Debug\net9.0\SumDigits.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ForLoop-Lab\SumDigits\bin\Debug\net9.0\SumDigits.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ForLoop-Lab\SumDigits\obj\Debug\net9.0\SumDigits.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ForLoop-Lab\SumDigits\obj\Debug\net9.0\refint\SumDigits.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ForLoop-Lab\SumDigits\obj\Debug\net9.0\SumDigits.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ForLoop-Lab\SumDigits\obj\Debug\net9.0\SumDigits.genruntimeconfig.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ForLoop-Lab\SumDigits\obj\Debug\net9.0\ref\SumDigits.dll

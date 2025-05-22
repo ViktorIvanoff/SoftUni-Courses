@@ -1,0 +1,14 @@
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ConditionalStatementsExercise\07.WorkingHours\bin\Debug\net9.0\07.WorkingHours.exe
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ConditionalStatementsExercise\07.WorkingHours\bin\Debug\net9.0\07.WorkingHours.deps.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ConditionalStatementsExercise\07.WorkingHours\bin\Debug\net9.0\07.WorkingHours.runtimeconfig.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ConditionalStatementsExercise\07.WorkingHours\bin\Debug\net9.0\07.WorkingHours.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ConditionalStatementsExercise\07.WorkingHours\bin\Debug\net9.0\07.WorkingHours.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ConditionalStatementsExercise\07.WorkingHours\obj\Debug\net9.0\07.WorkingHours.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ConditionalStatementsExercise\07.WorkingHours\obj\Debug\net9.0\07.WorkingHours.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ConditionalStatementsExercise\07.WorkingHours\obj\Debug\net9.0\07.WorkingHours.AssemblyInfo.cs
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ConditionalStatementsExercise\07.WorkingHours\obj\Debug\net9.0\07.WorkingHours.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ConditionalStatementsExercise\07.WorkingHours\obj\Debug\net9.0\07.WorkingHours.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ConditionalStatementsExercise\07.WorkingHours\obj\Debug\net9.0\refint\07.WorkingHours.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ConditionalStatementsExercise\07.WorkingHours\obj\Debug\net9.0\07.WorkingHours.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ConditionalStatementsExercise\07.WorkingHours\obj\Debug\net9.0\07.WorkingHours.genruntimeconfig.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ConditionalStatementsExercise\07.WorkingHours\obj\Debug\net9.0\ref\07.WorkingHours.dll

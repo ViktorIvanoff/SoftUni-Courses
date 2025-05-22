@@ -1,0 +1,14 @@
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ConditionalStatementsExercise\05.VacationExpenses\bin\Debug\net9.0\05.VacationExpenses.exe
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ConditionalStatementsExercise\05.VacationExpenses\bin\Debug\net9.0\05.VacationExpenses.deps.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ConditionalStatementsExercise\05.VacationExpenses\bin\Debug\net9.0\05.VacationExpenses.runtimeconfig.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ConditionalStatementsExercise\05.VacationExpenses\bin\Debug\net9.0\05.VacationExpenses.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ConditionalStatementsExercise\05.VacationExpenses\bin\Debug\net9.0\05.VacationExpenses.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ConditionalStatementsExercise\05.VacationExpenses\obj\Debug\net9.0\05.VacationExpenses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ConditionalStatementsExercise\05.VacationExpenses\obj\Debug\net9.0\05.VacationExpenses.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ConditionalStatementsExercise\05.VacationExpenses\obj\Debug\net9.0\05.VacationExpenses.AssemblyInfo.cs
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ConditionalStatementsExercise\05.VacationExpenses\obj\Debug\net9.0\05.VacationExpenses.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ConditionalStatementsExercise\05.VacationExpenses\obj\Debug\net9.0\05.VacationExpenses.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ConditionalStatementsExercise\05.VacationExpenses\obj\Debug\net9.0\refint\05.VacationExpenses.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ConditionalStatementsExercise\05.VacationExpenses\obj\Debug\net9.0\05.VacationExpenses.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ConditionalStatementsExercise\05.VacationExpenses\obj\Debug\net9.0\05.VacationExpenses.genruntimeconfig.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ConditionalStatementsExercise\05.VacationExpenses\obj\Debug\net9.0\ref\05.VacationExpenses.dll

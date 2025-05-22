@@ -1,0 +1,14 @@
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\LoopsExercise\04.Building\bin\Debug\net9.0\04.Building.exe
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\LoopsExercise\04.Building\bin\Debug\net9.0\04.Building.deps.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\LoopsExercise\04.Building\bin\Debug\net9.0\04.Building.runtimeconfig.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\LoopsExercise\04.Building\bin\Debug\net9.0\04.Building.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\LoopsExercise\04.Building\bin\Debug\net9.0\04.Building.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\LoopsExercise\04.Building\obj\Debug\net9.0\04.Building.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\LoopsExercise\04.Building\obj\Debug\net9.0\04.Building.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\LoopsExercise\04.Building\obj\Debug\net9.0\04.Building.AssemblyInfo.cs
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\LoopsExercise\04.Building\obj\Debug\net9.0\04.Building.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\LoopsExercise\04.Building\obj\Debug\net9.0\04.Building.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\LoopsExercise\04.Building\obj\Debug\net9.0\refint\04.Building.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\LoopsExercise\04.Building\obj\Debug\net9.0\04.Building.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\LoopsExercise\04.Building\obj\Debug\net9.0\04.Building.genruntimeconfig.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\LoopsExercise\04.Building\obj\Debug\net9.0\ref\04.Building.dll

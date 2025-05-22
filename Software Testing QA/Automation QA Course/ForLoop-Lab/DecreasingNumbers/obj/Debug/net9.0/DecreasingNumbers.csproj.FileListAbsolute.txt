@@ -1,0 +1,14 @@
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ForLoop-Lab\DecreasingNumbers\bin\Debug\net9.0\DecreasingNumbers.exe
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ForLoop-Lab\DecreasingNumbers\bin\Debug\net9.0\DecreasingNumbers.deps.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ForLoop-Lab\DecreasingNumbers\bin\Debug\net9.0\DecreasingNumbers.runtimeconfig.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ForLoop-Lab\DecreasingNumbers\bin\Debug\net9.0\DecreasingNumbers.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ForLoop-Lab\DecreasingNumbers\bin\Debug\net9.0\DecreasingNumbers.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ForLoop-Lab\DecreasingNumbers\obj\Debug\net9.0\DecreasingNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ForLoop-Lab\DecreasingNumbers\obj\Debug\net9.0\DecreasingNumbers.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ForLoop-Lab\DecreasingNumbers\obj\Debug\net9.0\DecreasingNumbers.AssemblyInfo.cs
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ForLoop-Lab\DecreasingNumbers\obj\Debug\net9.0\DecreasingNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ForLoop-Lab\DecreasingNumbers\obj\Debug\net9.0\DecreasingNumbers.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ForLoop-Lab\DecreasingNumbers\obj\Debug\net9.0\refint\DecreasingNumbers.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ForLoop-Lab\DecreasingNumbers\obj\Debug\net9.0\DecreasingNumbers.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ForLoop-Lab\DecreasingNumbers\obj\Debug\net9.0\DecreasingNumbers.genruntimeconfig.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ForLoop-Lab\DecreasingNumbers\obj\Debug\net9.0\ref\DecreasingNumbers.dll

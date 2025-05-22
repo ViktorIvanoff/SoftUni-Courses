@@ -1,0 +1,14 @@
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\LoopsExercise\09.SpecialBonus\bin\Debug\net9.0\09.SpecialBonus.exe
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\LoopsExercise\09.SpecialBonus\bin\Debug\net9.0\09.SpecialBonus.deps.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\LoopsExercise\09.SpecialBonus\bin\Debug\net9.0\09.SpecialBonus.runtimeconfig.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\LoopsExercise\09.SpecialBonus\bin\Debug\net9.0\09.SpecialBonus.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\LoopsExercise\09.SpecialBonus\bin\Debug\net9.0\09.SpecialBonus.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\LoopsExercise\09.SpecialBonus\obj\Debug\net9.0\09.SpecialBonus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\LoopsExercise\09.SpecialBonus\obj\Debug\net9.0\09.SpecialBonus.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\LoopsExercise\09.SpecialBonus\obj\Debug\net9.0\09.SpecialBonus.AssemblyInfo.cs
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\LoopsExercise\09.SpecialBonus\obj\Debug\net9.0\09.SpecialBonus.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\LoopsExercise\09.SpecialBonus\obj\Debug\net9.0\09.SpecialBonus.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\LoopsExercise\09.SpecialBonus\obj\Debug\net9.0\refint\09.SpecialBonus.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\LoopsExercise\09.SpecialBonus\obj\Debug\net9.0\09.SpecialBonus.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\LoopsExercise\09.SpecialBonus\obj\Debug\net9.0\09.SpecialBonus.genruntimeconfig.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\LoopsExercise\09.SpecialBonus\obj\Debug\net9.0\ref\09.SpecialBonus.dll
