@@ -1,0 +1,14 @@
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\MethodsLab\07.GreaterOfTwo\bin\Debug\net9.0\07.GreaterOfTwo.exe
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\MethodsLab\07.GreaterOfTwo\bin\Debug\net9.0\07.GreaterOfTwo.deps.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\MethodsLab\07.GreaterOfTwo\bin\Debug\net9.0\07.GreaterOfTwo.runtimeconfig.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\MethodsLab\07.GreaterOfTwo\bin\Debug\net9.0\07.GreaterOfTwo.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\MethodsLab\07.GreaterOfTwo\bin\Debug\net9.0\07.GreaterOfTwo.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\MethodsLab\07.GreaterOfTwo\obj\Debug\net9.0\07.GreaterOfTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\MethodsLab\07.GreaterOfTwo\obj\Debug\net9.0\07.GreaterOfTwo.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\MethodsLab\07.GreaterOfTwo\obj\Debug\net9.0\07.GreaterOfTwo.AssemblyInfo.cs
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\MethodsLab\07.GreaterOfTwo\obj\Debug\net9.0\07.GreaterOfTwo.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\MethodsLab\07.GreaterOfTwo\obj\Debug\net9.0\07.GreaterOfTwo.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\MethodsLab\07.GreaterOfTwo\obj\Debug\net9.0\refint\07.GreaterOfTwo.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\MethodsLab\07.GreaterOfTwo\obj\Debug\net9.0\07.GreaterOfTwo.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\MethodsLab\07.GreaterOfTwo\obj\Debug\net9.0\07.GreaterOfTwo.genruntimeconfig.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\MethodsLab\07.GreaterOfTwo\obj\Debug\net9.0\ref\07.GreaterOfTwo.dll

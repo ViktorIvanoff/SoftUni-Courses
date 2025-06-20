@@ -1,0 +1,14 @@
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\MethodsLab\02.Grades\obj\Debug\net9.0\02.Grades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\MethodsLab\02.Grades\obj\Debug\net9.0\02.Grades.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\MethodsLab\02.Grades\obj\Debug\net9.0\02.Grades.AssemblyInfo.cs
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\MethodsLab\02.Grades\obj\Debug\net9.0\02.Grades.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\MethodsLab\02.Grades\bin\Debug\net9.0\02.Grades.exe
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\MethodsLab\02.Grades\bin\Debug\net9.0\02.Grades.deps.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\MethodsLab\02.Grades\bin\Debug\net9.0\02.Grades.runtimeconfig.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\MethodsLab\02.Grades\bin\Debug\net9.0\02.Grades.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\MethodsLab\02.Grades\bin\Debug\net9.0\02.Grades.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\MethodsLab\02.Grades\obj\Debug\net9.0\02.Grades.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\MethodsLab\02.Grades\obj\Debug\net9.0\refint\02.Grades.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\MethodsLab\02.Grades\obj\Debug\net9.0\02.Grades.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\MethodsLab\02.Grades\obj\Debug\net9.0\02.Grades.genruntimeconfig.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\MethodsLab\02.Grades\obj\Debug\net9.0\ref\02.Grades.dll

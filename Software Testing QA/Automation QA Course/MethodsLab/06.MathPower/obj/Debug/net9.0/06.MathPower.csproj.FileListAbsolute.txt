@@ -1,0 +1,14 @@
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\MethodsLab\06.MathPower\obj\Debug\net9.0\06.MathPower.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\MethodsLab\06.MathPower\obj\Debug\net9.0\06.MathPower.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\MethodsLab\06.MathPower\obj\Debug\net9.0\06.MathPower.AssemblyInfo.cs
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\MethodsLab\06.MathPower\obj\Debug\net9.0\06.MathPower.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\MethodsLab\06.MathPower\bin\Debug\net9.0\06.MathPower.exe
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\MethodsLab\06.MathPower\bin\Debug\net9.0\06.MathPower.deps.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\MethodsLab\06.MathPower\bin\Debug\net9.0\06.MathPower.runtimeconfig.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\MethodsLab\06.MathPower\bin\Debug\net9.0\06.MathPower.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\MethodsLab\06.MathPower\bin\Debug\net9.0\06.MathPower.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\MethodsLab\06.MathPower\obj\Debug\net9.0\06.MathPower.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\MethodsLab\06.MathPower\obj\Debug\net9.0\refint\06.MathPower.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\MethodsLab\06.MathPower\obj\Debug\net9.0\06.MathPower.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\MethodsLab\06.MathPower\obj\Debug\net9.0\06.MathPower.genruntimeconfig.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\MethodsLab\06.MathPower\obj\Debug\net9.0\ref\06.MathPower.dll

@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Victor\\Desktop\\Automation QA\\Programming Fundamentals and Unit Testing\\VS Projects\\MethodsLab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{618901A9-4E4E-4B2E-8F4A-58271CAE0560}|07.GreaterOfTwo\\07.GreaterOfTwo.csproj|c:\\users\\victor\\desktop\\automation qa\\programming fundamentals and unit testing\\vs projects\\methodslab\\07.greateroftwo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{618901A9-4E4E-4B2E-8F4A-58271CAE0560}|07.GreaterOfTwo\\07.GreaterOfTwo.csproj|solutionrelative:07.greateroftwo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E64265A6-7396-4D02-8655-CBF2247676EF}|06.MathPower\\06.MathPower.csproj|c:\\users\\victor\\desktop\\automation qa\\programming fundamentals and unit testing\\vs projects\\methodslab\\06.mathpower\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E64265A6-7396-4D02-8655-CBF2247676EF}|06.MathPower\\06.MathPower.csproj|solutionrelative:06.mathpower\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD8DC8D6-B733-4946-B728-657B8D9324A4}|04.CalculateRectangleArea\\04.CalculateRectangleArea.csproj|c:\\users\\victor\\desktop\\automation qa\\programming fundamentals and unit testing\\vs projects\\methodslab\\04.calculaterectanglearea\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD8DC8D6-B733-4946-B728-657B8D9324A4}|04.CalculateRectangleArea\\04.CalculateRectangleArea.csproj|solutionrelative:04.calculaterectanglearea\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A0F3E7-1D5C-42EE-8B65-710D3E016384}|05.RepeatString\\05.RepeatString.csproj|c:\\users\\victor\\desktop\\automation qa\\programming fundamentals and unit testing\\vs projects\\methodslab\\05.repeatstring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50A0F3E7-1D5C-42EE-8B65-710D3E016384}|05.RepeatString\\05.RepeatString.csproj|solutionrelative:05.repeatstring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBB7C7A5-DD80-49FC-B46D-4519CD2CD720}|03.PrintingTriangle\\03.PrintingTriangle.csproj|c:\\users\\victor\\desktop\\automation qa\\programming fundamentals and unit testing\\vs projects\\methodslab\\03.printingtriangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBB7C7A5-DD80-49FC-B46D-4519CD2CD720}|03.PrintingTriangle\\03.PrintingTriangle.csproj|solutionrelative:03.printingtriangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B9D05A-A2CA-4FA1-92F6-28BB06DFC28D}|02.Grades\\02.Grades.csproj|c:\\users\\victor\\desktop\\automation qa\\programming fundamentals and unit testing\\vs projects\\methodslab\\02.grades\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B9D05A-A2CA-4FA1-92F6-28BB06DFC28D}|02.Grades\\02.Grades.csproj|solutionrelative:02.grades\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B34912DB-C6A3-46CB-8F12-EB4E6595883E}|01.SignOfIntegerNumber\\01.SignOfIntegerNumber.csproj|c:\\users\\victor\\desktop\\automation qa\\programming fundamentals and unit testing\\vs projects\\methodslab\\01.signofintegernumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B34912DB-C6A3-46CB-8F12-EB4E6595883E}|01.SignOfIntegerNumber\\01.SignOfIntegerNumber.csproj|solutionrelative:01.signofintegernumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\Automation QA\\Programming Fundamentals and Unit Testing\\VS Projects\\MethodsLab\\07.GreaterOfTwo\\Program.cs",
+              "RelativeDocumentMoniker": "07.GreaterOfTwo\\Program.cs",
+              "ToolTip": "C:\\Users\\Victor\\Desktop\\Automation QA\\Programming Fundamentals and Unit Testing\\VS Projects\\MethodsLab\\07.GreaterOfTwo\\Program.cs",
+              "RelativeToolTip": "07.GreaterOfTwo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T13:35:32.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\Automation QA\\Programming Fundamentals and Unit Testing\\VS Projects\\MethodsLab\\06.MathPower\\Program.cs",
+              "RelativeDocumentMoniker": "06.MathPower\\Program.cs",
+              "ToolTip": "C:\\Users\\Victor\\Desktop\\Automation QA\\Programming Fundamentals and Unit Testing\\VS Projects\\MethodsLab\\06.MathPower\\Program.cs",
+              "RelativeToolTip": "06.MathPower\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T11:32:43.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\Automation QA\\Programming Fundamentals and Unit Testing\\VS Projects\\MethodsLab\\05.RepeatString\\Program.cs",
+              "RelativeDocumentMoniker": "05.RepeatString\\Program.cs",
+              "ToolTip": "C:\\Users\\Victor\\Desktop\\Automation QA\\Programming Fundamentals and Unit Testing\\VS Projects\\MethodsLab\\05.RepeatString\\Program.cs",
+              "RelativeToolTip": "05.RepeatString\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T11:26:52.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\Automation QA\\Programming Fundamentals and Unit Testing\\VS Projects\\MethodsLab\\04.CalculateRectangleArea\\Program.cs",
+              "RelativeDocumentMoniker": "04.CalculateRectangleArea\\Program.cs",
+              "ToolTip": "C:\\Users\\Victor\\Desktop\\Automation QA\\Programming Fundamentals and Unit Testing\\VS Projects\\MethodsLab\\04.CalculateRectangleArea\\Program.cs",
+              "RelativeToolTip": "04.CalculateRectangleArea\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T11:20:55.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\Automation QA\\Programming Fundamentals and Unit Testing\\VS Projects\\MethodsLab\\03.PrintingTriangle\\Program.cs",
+              "RelativeDocumentMoniker": "03.PrintingTriangle\\Program.cs",
+              "ToolTip": "C:\\Users\\Victor\\Desktop\\Automation QA\\Programming Fundamentals and Unit Testing\\VS Projects\\MethodsLab\\03.PrintingTriangle\\Program.cs",
+              "RelativeToolTip": "03.PrintingTriangle\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAiwBYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T17:43:27.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\Automation QA\\Programming Fundamentals and Unit Testing\\VS Projects\\MethodsLab\\02.Grades\\Program.cs",
+              "RelativeDocumentMoniker": "02.Grades\\Program.cs",
+              "ToolTip": "C:\\Users\\Victor\\Desktop\\Automation QA\\Programming Fundamentals and Unit Testing\\VS Projects\\MethodsLab\\02.Grades\\Program.cs",
+              "RelativeToolTip": "02.Grades\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T14:42:09.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\Automation QA\\Programming Fundamentals and Unit Testing\\VS Projects\\MethodsLab\\01.SignOfIntegerNumber\\Program.cs",
+              "RelativeDocumentMoniker": "01.SignOfIntegerNumber\\Program.cs",
+              "ToolTip": "C:\\Users\\Victor\\Desktop\\Automation QA\\Programming Fundamentals and Unit Testing\\VS Projects\\MethodsLab\\01.SignOfIntegerNumber\\Program.cs",
+              "RelativeToolTip": "01.SignOfIntegerNumber\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T13:30:12.615Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

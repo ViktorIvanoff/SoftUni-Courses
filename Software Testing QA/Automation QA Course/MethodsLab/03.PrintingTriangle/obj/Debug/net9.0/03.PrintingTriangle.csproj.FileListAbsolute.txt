@@ -1,0 +1,14 @@
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\MethodsLab\03.PrintingTriangle\bin\Debug\net9.0\03.PrintingTriangle.exe
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\MethodsLab\03.PrintingTriangle\bin\Debug\net9.0\03.PrintingTriangle.deps.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\MethodsLab\03.PrintingTriangle\bin\Debug\net9.0\03.PrintingTriangle.runtimeconfig.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\MethodsLab\03.PrintingTriangle\bin\Debug\net9.0\03.PrintingTriangle.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\MethodsLab\03.PrintingTriangle\bin\Debug\net9.0\03.PrintingTriangle.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\MethodsLab\03.PrintingTriangle\obj\Debug\net9.0\03.PrintingTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\MethodsLab\03.PrintingTriangle\obj\Debug\net9.0\03.PrintingTriangle.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\MethodsLab\03.PrintingTriangle\obj\Debug\net9.0\03.PrintingTriangle.AssemblyInfo.cs
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\MethodsLab\03.PrintingTriangle\obj\Debug\net9.0\03.PrintingTriangle.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\MethodsLab\03.PrintingTriangle\obj\Debug\net9.0\03.PrintingTriangle.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\MethodsLab\03.PrintingTriangle\obj\Debug\net9.0\refint\03.PrintingTriangle.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\MethodsLab\03.PrintingTriangle\obj\Debug\net9.0\03.PrintingTriangle.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\MethodsLab\03.PrintingTriangle\obj\Debug\net9.0\03.PrintingTriangle.genruntimeconfig.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\MethodsLab\03.PrintingTriangle\obj\Debug\net9.0\ref\03.PrintingTriangle.dll

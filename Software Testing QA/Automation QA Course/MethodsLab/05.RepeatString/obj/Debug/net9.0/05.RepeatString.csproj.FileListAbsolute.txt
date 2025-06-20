@@ -1,0 +1,14 @@
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\MethodsLab\05.RepeatString\bin\Debug\net9.0\05.RepeatString.exe
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\MethodsLab\05.RepeatString\bin\Debug\net9.0\05.RepeatString.deps.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\MethodsLab\05.RepeatString\bin\Debug\net9.0\05.RepeatString.runtimeconfig.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\MethodsLab\05.RepeatString\bin\Debug\net9.0\05.RepeatString.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\MethodsLab\05.RepeatString\bin\Debug\net9.0\05.RepeatString.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\MethodsLab\05.RepeatString\obj\Debug\net9.0\05.RepeatString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\MethodsLab\05.RepeatString\obj\Debug\net9.0\05.RepeatString.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\MethodsLab\05.RepeatString\obj\Debug\net9.0\05.RepeatString.AssemblyInfo.cs
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\MethodsLab\05.RepeatString\obj\Debug\net9.0\05.RepeatString.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\MethodsLab\05.RepeatString\obj\Debug\net9.0\05.RepeatString.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\MethodsLab\05.RepeatString\obj\Debug\net9.0\refint\05.RepeatString.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\MethodsLab\05.RepeatString\obj\Debug\net9.0\05.RepeatString.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\MethodsLab\05.RepeatString\obj\Debug\net9.0\05.RepeatString.genruntimeconfig.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\MethodsLab\05.RepeatString\obj\Debug\net9.0\ref\05.RepeatString.dll
