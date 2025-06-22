@@ -1,0 +1,14 @@
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\01.VowelsCount\03.MultiplicationSign\obj\Debug\net9.0\03.MultiplicationSign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\01.VowelsCount\03.MultiplicationSign\obj\Debug\net9.0\03.MultiplicationSign.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\01.VowelsCount\03.MultiplicationSign\obj\Debug\net9.0\03.MultiplicationSign.AssemblyInfo.cs
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\01.VowelsCount\03.MultiplicationSign\obj\Debug\net9.0\03.MultiplicationSign.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\01.VowelsCount\03.MultiplicationSign\bin\Debug\net9.0\03.MultiplicationSign.exe
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\01.VowelsCount\03.MultiplicationSign\bin\Debug\net9.0\03.MultiplicationSign.deps.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\01.VowelsCount\03.MultiplicationSign\bin\Debug\net9.0\03.MultiplicationSign.runtimeconfig.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\01.VowelsCount\03.MultiplicationSign\bin\Debug\net9.0\03.MultiplicationSign.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\01.VowelsCount\03.MultiplicationSign\bin\Debug\net9.0\03.MultiplicationSign.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\01.VowelsCount\03.MultiplicationSign\obj\Debug\net9.0\03.MultiplicationSign.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\01.VowelsCount\03.MultiplicationSign\obj\Debug\net9.0\refint\03.MultiplicationSign.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\01.VowelsCount\03.MultiplicationSign\obj\Debug\net9.0\03.MultiplicationSign.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\01.VowelsCount\03.MultiplicationSign\obj\Debug\net9.0\03.MultiplicationSign.genruntimeconfig.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\01.VowelsCount\03.MultiplicationSign\obj\Debug\net9.0\ref\03.MultiplicationSign.dll

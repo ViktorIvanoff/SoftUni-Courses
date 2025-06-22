@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Victor\\Desktop\\Automation QA\\Programming Fundamentals and Unit Testing\\VS Projects\\01.VowelsCount\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D4AD8AC-E9C4-41D9-9C8A-A8CE3C557AC9}|07.Orders\\07.Orders.csproj|c:\\users\\victor\\desktop\\automation qa\\programming fundamentals and unit testing\\vs projects\\01.vowelscount\\07.orders\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D4AD8AC-E9C4-41D9-9C8A-A8CE3C557AC9}|07.Orders\\07.Orders.csproj|solutionrelative:07.orders\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D45F370-D94C-4ED2-9CCD-3A7E8AD90DE9}|06.MultiplyEvensByOdds\\06.MultiplyEvensByOdds.csproj|c:\\users\\victor\\desktop\\automation qa\\programming fundamentals and unit testing\\vs projects\\01.vowelscount\\06.multiplyevensbyodds\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D45F370-D94C-4ED2-9CCD-3A7E8AD90DE9}|06.MultiplyEvensByOdds\\06.MultiplyEvensByOdds.csproj|solutionrelative:06.multiplyevensbyodds\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{933E1B87-1EBA-4602-8363-5FA41CA45BCD}|04.PasswordValidator\\04.PasswordValidator.csproj|c:\\users\\victor\\desktop\\automation qa\\programming fundamentals and unit testing\\vs projects\\01.vowelscount\\04.passwordvalidator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{933E1B87-1EBA-4602-8363-5FA41CA45BCD}|04.PasswordValidator\\04.PasswordValidator.csproj|solutionrelative:04.passwordvalidator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A77320-D657-413D-8323-590A0913067F}|03.MultiplicationSign\\03.MultiplicationSign.csproj|c:\\users\\victor\\desktop\\automation qa\\programming fundamentals and unit testing\\vs projects\\01.vowelscount\\03.multiplicationsign\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A77320-D657-413D-8323-590A0913067F}|03.MultiplicationSign\\03.MultiplicationSign.csproj|solutionrelative:03.multiplicationsign\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FCDC1B8-F57D-4456-AB15-AD13CBDA04B8}|02.FactorialDivision\\02.FactorialDivision.csproj|c:\\users\\victor\\desktop\\automation qa\\programming fundamentals and unit testing\\vs projects\\01.vowelscount\\02.factorialdivision\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FCDC1B8-F57D-4456-AB15-AD13CBDA04B8}|02.FactorialDivision\\02.FactorialDivision.csproj|solutionrelative:02.factorialdivision\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D304814E-9773-4E1B-8A69-72E1E0301F3E}|01.VowelsCount\\01.VowelsCount.csproj|c:\\users\\victor\\desktop\\automation qa\\programming fundamentals and unit testing\\vs projects\\01.vowelscount\\01.vowelscount\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D304814E-9773-4E1B-8A69-72E1E0301F3E}|01.VowelsCount\\01.VowelsCount.csproj|solutionrelative:01.vowelscount\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\Automation QA\\Programming Fundamentals and Unit Testing\\VS Projects\\01.VowelsCount\\07.Orders\\Program.cs",
+              "RelativeDocumentMoniker": "07.Orders\\Program.cs",
+              "ToolTip": "C:\\Users\\Victor\\Desktop\\Automation QA\\Programming Fundamentals and Unit Testing\\VS Projects\\01.VowelsCount\\07.Orders\\Program.cs",
+              "RelativeToolTip": "07.Orders\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T13:53:53.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\Automation QA\\Programming Fundamentals and Unit Testing\\VS Projects\\01.VowelsCount\\06.MultiplyEvensByOdds\\Program.cs",
+              "RelativeDocumentMoniker": "06.MultiplyEvensByOdds\\Program.cs",
+              "ToolTip": "C:\\Users\\Victor\\Desktop\\Automation QA\\Programming Fundamentals and Unit Testing\\VS Projects\\01.VowelsCount\\06.MultiplyEvensByOdds\\Program.cs",
+              "RelativeToolTip": "06.MultiplyEvensByOdds\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T13:40:10.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\Automation QA\\Programming Fundamentals and Unit Testing\\VS Projects\\01.VowelsCount\\04.PasswordValidator\\Program.cs",
+              "RelativeDocumentMoniker": "04.PasswordValidator\\Program.cs",
+              "ToolTip": "C:\\Users\\Victor\\Desktop\\Automation QA\\Programming Fundamentals and Unit Testing\\VS Projects\\01.VowelsCount\\04.PasswordValidator\\Program.cs",
+              "RelativeToolTip": "04.PasswordValidator\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T13:10:37.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\Automation QA\\Programming Fundamentals and Unit Testing\\VS Projects\\01.VowelsCount\\03.MultiplicationSign\\Program.cs",
+              "RelativeDocumentMoniker": "03.MultiplicationSign\\Program.cs",
+              "ToolTip": "C:\\Users\\Victor\\Desktop\\Automation QA\\Programming Fundamentals and Unit Testing\\VS Projects\\01.VowelsCount\\03.MultiplicationSign\\Program.cs",
+              "RelativeToolTip": "03.MultiplicationSign\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T13:01:03.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\Automation QA\\Programming Fundamentals and Unit Testing\\VS Projects\\01.VowelsCount\\02.FactorialDivision\\Program.cs",
+              "RelativeDocumentMoniker": "02.FactorialDivision\\Program.cs",
+              "ToolTip": "C:\\Users\\Victor\\Desktop\\Automation QA\\Programming Fundamentals and Unit Testing\\VS Projects\\01.VowelsCount\\02.FactorialDivision\\Program.cs",
+              "RelativeToolTip": "02.FactorialDivision\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T12:52:35.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\Automation QA\\Programming Fundamentals and Unit Testing\\VS Projects\\01.VowelsCount\\01.VowelsCount\\Program.cs",
+              "RelativeDocumentMoniker": "01.VowelsCount\\Program.cs",
+              "ToolTip": "C:\\Users\\Victor\\Desktop\\Automation QA\\Programming Fundamentals and Unit Testing\\VS Projects\\01.VowelsCount\\01.VowelsCount\\Program.cs",
+              "RelativeToolTip": "01.VowelsCount\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T12:35:33.9Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

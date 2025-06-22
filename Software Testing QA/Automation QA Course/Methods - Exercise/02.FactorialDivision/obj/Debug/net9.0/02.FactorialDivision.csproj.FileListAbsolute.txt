@@ -1,0 +1,14 @@
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\01.VowelsCount\02.FactorialDivision\bin\Debug\net9.0\02.FactorialDivision.exe
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\01.VowelsCount\02.FactorialDivision\bin\Debug\net9.0\02.FactorialDivision.deps.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\01.VowelsCount\02.FactorialDivision\bin\Debug\net9.0\02.FactorialDivision.runtimeconfig.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\01.VowelsCount\02.FactorialDivision\bin\Debug\net9.0\02.FactorialDivision.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\01.VowelsCount\02.FactorialDivision\bin\Debug\net9.0\02.FactorialDivision.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\01.VowelsCount\02.FactorialDivision\obj\Debug\net9.0\02.FactorialDivision.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\01.VowelsCount\02.FactorialDivision\obj\Debug\net9.0\02.FactorialDivision.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\01.VowelsCount\02.FactorialDivision\obj\Debug\net9.0\02.FactorialDivision.AssemblyInfo.cs
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\01.VowelsCount\02.FactorialDivision\obj\Debug\net9.0\02.FactorialDivision.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\01.VowelsCount\02.FactorialDivision\obj\Debug\net9.0\02.FactorialDivision.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\01.VowelsCount\02.FactorialDivision\obj\Debug\net9.0\refint\02.FactorialDivision.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\01.VowelsCount\02.FactorialDivision\obj\Debug\net9.0\02.FactorialDivision.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\01.VowelsCount\02.FactorialDivision\obj\Debug\net9.0\02.FactorialDivision.genruntimeconfig.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\01.VowelsCount\02.FactorialDivision\obj\Debug\net9.0\ref\02.FactorialDivision.dll
