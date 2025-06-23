@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Victor\\Desktop\\Automation QA\\Programming Fundamentals and Unit Testing\\VS Projects\\Arrays - Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79EBDF72-3920-435C-AD32-C78C1AA068DE}|04.EvenAndOddSubtraction\\04.EvenAndOddSubtraction.csproj|c:\\users\\victor\\desktop\\automation qa\\programming fundamentals and unit testing\\vs projects\\arrays - lab\\04.evenandoddsubtraction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79EBDF72-3920-435C-AD32-C78C1AA068DE}|04.EvenAndOddSubtraction\\04.EvenAndOddSubtraction.csproj|solutionrelative:04.evenandoddsubtraction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45946C14-326D-4023-B345-129C587ED585}|03.ReverseAnArray\\03.ReverseAnArray.csproj|c:\\users\\victor\\desktop\\automation qa\\programming fundamentals and unit testing\\vs projects\\arrays - lab\\03.reverseanarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45946C14-326D-4023-B345-129C587ED585}|03.ReverseAnArray\\03.ReverseAnArray.csproj|solutionrelative:03.reverseanarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4378D860-65E3-4E4C-AEF9-043A4884C3DC}|02.SumAnArray\\02.SumAnArray.csproj|c:\\users\\victor\\desktop\\automation qa\\programming fundamentals and unit testing\\vs projects\\arrays - lab\\02.sumanarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4378D860-65E3-4E4C-AEF9-043A4884C3DC}|02.SumAnArray\\02.SumAnArray.csproj|solutionrelative:02.sumanarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75DAC5CD-77D5-497A-AE36-445441A79828}|Arrays - Lab\\Arrays - Lab.csproj|c:\\users\\victor\\desktop\\automation qa\\programming fundamentals and unit testing\\vs projects\\arrays - lab\\arrays - lab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75DAC5CD-77D5-497A-AE36-445441A79828}|Arrays - Lab\\Arrays - Lab.csproj|solutionrelative:arrays - lab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\Automation QA\\Programming Fundamentals and Unit Testing\\VS Projects\\Arrays - Lab\\04.EvenAndOddSubtraction\\Program.cs",
+              "RelativeDocumentMoniker": "04.EvenAndOddSubtraction\\Program.cs",
+              "ToolTip": "C:\\Users\\Victor\\Desktop\\Automation QA\\Programming Fundamentals and Unit Testing\\VS Projects\\Arrays - Lab\\04.EvenAndOddSubtraction\\Program.cs",
+              "RelativeToolTip": "04.EvenAndOddSubtraction\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T10:00:11.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\Automation QA\\Programming Fundamentals and Unit Testing\\VS Projects\\Arrays - Lab\\03.ReverseAnArray\\Program.cs",
+              "RelativeDocumentMoniker": "03.ReverseAnArray\\Program.cs",
+              "ToolTip": "C:\\Users\\Victor\\Desktop\\Automation QA\\Programming Fundamentals and Unit Testing\\VS Projects\\Arrays - Lab\\03.ReverseAnArray\\Program.cs",
+              "RelativeToolTip": "03.ReverseAnArray\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T09:47:03.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\Automation QA\\Programming Fundamentals and Unit Testing\\VS Projects\\Arrays - Lab\\02.SumAnArray\\Program.cs",
+              "RelativeDocumentMoniker": "02.SumAnArray\\Program.cs",
+              "ToolTip": "C:\\Users\\Victor\\Desktop\\Automation QA\\Programming Fundamentals and Unit Testing\\VS Projects\\Arrays - Lab\\02.SumAnArray\\Program.cs",
+              "RelativeToolTip": "02.SumAnArray\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T09:44:26.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\Automation QA\\Programming Fundamentals and Unit Testing\\VS Projects\\Arrays - Lab\\Arrays - Lab\\Program.cs",
+              "RelativeDocumentMoniker": "Arrays - Lab\\Program.cs",
+              "ToolTip": "C:\\Users\\Victor\\Desktop\\Automation QA\\Programming Fundamentals and Unit Testing\\VS Projects\\Arrays - Lab\\Arrays - Lab\\Program.cs",
+              "RelativeToolTip": "Arrays - Lab\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T14:15:47.074Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
