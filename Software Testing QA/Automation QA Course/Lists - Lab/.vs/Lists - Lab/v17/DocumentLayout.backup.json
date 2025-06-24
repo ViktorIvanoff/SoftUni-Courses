@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Victor\\Desktop\\Automation QA\\Programming Fundamentals and Unit Testing\\VS Projects\\Lists - Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD8656F1-58ED-4AC0-AA36-380FE9528E24}|03.RemoveNegativesAndReverse\\03.RemoveNegativesAndReverse.csproj|c:\\users\\victor\\desktop\\automation qa\\programming fundamentals and unit testing\\vs projects\\lists - lab\\03.removenegativesandreverse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD8656F1-58ED-4AC0-AA36-380FE9528E24}|03.RemoveNegativesAndReverse\\03.RemoveNegativesAndReverse.csproj|solutionrelative:03.removenegativesandreverse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A45CBE1-CAEA-40D8-A3E3-56F35AD22BC1}|01.ChangeList\\01.ChangeList.csproj|c:\\users\\victor\\desktop\\automation qa\\programming fundamentals and unit testing\\vs projects\\lists - lab\\01.changelist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A45CBE1-CAEA-40D8-A3E3-56F35AD22BC1}|01.ChangeList\\01.ChangeList.csproj|solutionrelative:01.changelist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B797CD8F-6917-423D-A311-06DE174C6A50}|02.ListOfProducts\\02.ListOfProducts.csproj|c:\\users\\victor\\desktop\\automation qa\\programming fundamentals and unit testing\\vs projects\\lists - lab\\02.listofproducts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B797CD8F-6917-423D-A311-06DE174C6A50}|02.ListOfProducts\\02.ListOfProducts.csproj|solutionrelative:02.listofproducts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\Automation QA\\Programming Fundamentals and Unit Testing\\VS Projects\\Lists - Lab\\03.RemoveNegativesAndReverse\\Program.cs",
+              "RelativeDocumentMoniker": "03.RemoveNegativesAndReverse\\Program.cs",
+              "ToolTip": "C:\\Users\\Victor\\Desktop\\Automation QA\\Programming Fundamentals and Unit Testing\\VS Projects\\Lists - Lab\\03.RemoveNegativesAndReverse\\Program.cs*",
+              "RelativeToolTip": "03.RemoveNegativesAndReverse\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T13:15:00.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\Automation QA\\Programming Fundamentals and Unit Testing\\VS Projects\\Lists - Lab\\02.ListOfProducts\\Program.cs",
+              "RelativeDocumentMoniker": "02.ListOfProducts\\Program.cs",
+              "ToolTip": "C:\\Users\\Victor\\Desktop\\Automation QA\\Programming Fundamentals and Unit Testing\\VS Projects\\Lists - Lab\\02.ListOfProducts\\Program.cs",
+              "RelativeToolTip": "02.ListOfProducts\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T13:08:02.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\Automation QA\\Programming Fundamentals and Unit Testing\\VS Projects\\Lists - Lab\\01.ChangeList\\Program.cs",
+              "RelativeDocumentMoniker": "01.ChangeList\\Program.cs",
+              "ToolTip": "C:\\Users\\Victor\\Desktop\\Automation QA\\Programming Fundamentals and Unit Testing\\VS Projects\\Lists - Lab\\01.ChangeList\\Program.cs",
+              "RelativeToolTip": "01.ChangeList\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T09:41:28.085Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

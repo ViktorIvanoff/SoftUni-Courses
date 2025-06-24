@@ -1,0 +1,14 @@
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Lists - Lab\01.ChangeList\bin\Debug\net9.0\01.ChangeList.exe
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Lists - Lab\01.ChangeList\bin\Debug\net9.0\01.ChangeList.deps.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Lists - Lab\01.ChangeList\bin\Debug\net9.0\01.ChangeList.runtimeconfig.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Lists - Lab\01.ChangeList\bin\Debug\net9.0\01.ChangeList.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Lists - Lab\01.ChangeList\bin\Debug\net9.0\01.ChangeList.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Lists - Lab\01.ChangeList\obj\Debug\net9.0\01.ChangeList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Lists - Lab\01.ChangeList\obj\Debug\net9.0\01.ChangeList.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Lists - Lab\01.ChangeList\obj\Debug\net9.0\01.ChangeList.AssemblyInfo.cs
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Lists - Lab\01.ChangeList\obj\Debug\net9.0\01.ChangeList.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Lists - Lab\01.ChangeList\obj\Debug\net9.0\01.ChangeList.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Lists - Lab\01.ChangeList\obj\Debug\net9.0\refint\01.ChangeList.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Lists - Lab\01.ChangeList\obj\Debug\net9.0\01.ChangeList.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Lists - Lab\01.ChangeList\obj\Debug\net9.0\01.ChangeList.genruntimeconfig.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Lists - Lab\01.ChangeList\obj\Debug\net9.0\ref\01.ChangeList.dll

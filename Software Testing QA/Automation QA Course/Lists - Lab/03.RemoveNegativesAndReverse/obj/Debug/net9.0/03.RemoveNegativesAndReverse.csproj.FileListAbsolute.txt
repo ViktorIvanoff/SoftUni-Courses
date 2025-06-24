@@ -1,0 +1,14 @@
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Lists - Lab\03.RemoveNegativesAndReverse\bin\Debug\net9.0\03.RemoveNegativesAndReverse.exe
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Lists - Lab\03.RemoveNegativesAndReverse\bin\Debug\net9.0\03.RemoveNegativesAndReverse.deps.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Lists - Lab\03.RemoveNegativesAndReverse\bin\Debug\net9.0\03.RemoveNegativesAndReverse.runtimeconfig.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Lists - Lab\03.RemoveNegativesAndReverse\bin\Debug\net9.0\03.RemoveNegativesAndReverse.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Lists - Lab\03.RemoveNegativesAndReverse\bin\Debug\net9.0\03.RemoveNegativesAndReverse.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Lists - Lab\03.RemoveNegativesAndReverse\obj\Debug\net9.0\03.RemoveNegativesAndReverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Lists - Lab\03.RemoveNegativesAndReverse\obj\Debug\net9.0\03.RemoveNegativesAndReverse.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Lists - Lab\03.RemoveNegativesAndReverse\obj\Debug\net9.0\03.RemoveNegativesAndReverse.AssemblyInfo.cs
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Lists - Lab\03.RemoveNegativesAndReverse\obj\Debug\net9.0\03.RemoveNegativesAndReverse.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Lists - Lab\03.RemoveNegativesAndReverse\obj\Debug\net9.0\03.RemoveNegativesAndReverse.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Lists - Lab\03.RemoveNegativesAndReverse\obj\Debug\net9.0\refint\03.RemoveNegativesAndReverse.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Lists - Lab\03.RemoveNegativesAndReverse\obj\Debug\net9.0\03.RemoveNegativesAndReverse.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Lists - Lab\03.RemoveNegativesAndReverse\obj\Debug\net9.0\03.RemoveNegativesAndReverse.genruntimeconfig.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Lists - Lab\03.RemoveNegativesAndReverse\obj\Debug\net9.0\ref\03.RemoveNegativesAndReverse.dll
