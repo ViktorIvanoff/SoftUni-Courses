@@ -1,0 +1,22 @@
+C:\Users\User\Desktop\Temp\20-Unit-Testing-Methods-Exercise-Resources\20-Unit-Testing-Methods-Exercise-Resources\TestApp\bin\Debug\net6.0\TestApp.deps.json
+C:\Users\User\Desktop\Temp\20-Unit-Testing-Methods-Exercise-Resources\20-Unit-Testing-Methods-Exercise-Resources\TestApp\bin\Debug\net6.0\TestApp.dll
+C:\Users\User\Desktop\Temp\20-Unit-Testing-Methods-Exercise-Resources\20-Unit-Testing-Methods-Exercise-Resources\TestApp\bin\Debug\net6.0\TestApp.pdb
+C:\Users\User\Desktop\Temp\20-Unit-Testing-Methods-Exercise-Resources\20-Unit-Testing-Methods-Exercise-Resources\TestApp\obj\Debug\net6.0\TestApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Temp\20-Unit-Testing-Methods-Exercise-Resources\20-Unit-Testing-Methods-Exercise-Resources\TestApp\obj\Debug\net6.0\TestApp.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Temp\20-Unit-Testing-Methods-Exercise-Resources\20-Unit-Testing-Methods-Exercise-Resources\TestApp\obj\Debug\net6.0\TestApp.AssemblyInfo.cs
+C:\Users\User\Desktop\Temp\20-Unit-Testing-Methods-Exercise-Resources\20-Unit-Testing-Methods-Exercise-Resources\TestApp\obj\Debug\net6.0\TestApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Temp\20-Unit-Testing-Methods-Exercise-Resources\20-Unit-Testing-Methods-Exercise-Resources\TestApp\obj\Debug\net6.0\TestApp.dll
+C:\Users\User\Desktop\Temp\20-Unit-Testing-Methods-Exercise-Resources\20-Unit-Testing-Methods-Exercise-Resources\TestApp\obj\Debug\net6.0\refint\TestApp.dll
+C:\Users\User\Desktop\Temp\20-Unit-Testing-Methods-Exercise-Resources\20-Unit-Testing-Methods-Exercise-Resources\TestApp\obj\Debug\net6.0\TestApp.pdb
+C:\Users\User\Desktop\Temp\20-Unit-Testing-Methods-Exercise-Resources\20-Unit-Testing-Methods-Exercise-Resources\TestApp\obj\Debug\net6.0\ref\TestApp.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\21. Unit Testing - Methods - Exercise\resources\TestApp\bin\Debug\net6.0\TestApp.deps.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\21. Unit Testing - Methods - Exercise\resources\TestApp\bin\Debug\net6.0\TestApp.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\21. Unit Testing - Methods - Exercise\resources\TestApp\bin\Debug\net6.0\TestApp.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\21. Unit Testing - Methods - Exercise\resources\TestApp\obj\Debug\net6.0\TestApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\21. Unit Testing - Methods - Exercise\resources\TestApp\obj\Debug\net6.0\TestApp.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\21. Unit Testing - Methods - Exercise\resources\TestApp\obj\Debug\net6.0\TestApp.AssemblyInfo.cs
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\21. Unit Testing - Methods - Exercise\resources\TestApp\obj\Debug\net6.0\TestApp.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\21. Unit Testing - Methods - Exercise\resources\TestApp\obj\Debug\net6.0\TestApp.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\21. Unit Testing - Methods - Exercise\resources\TestApp\obj\Debug\net6.0\refint\TestApp.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\21. Unit Testing - Methods - Exercise\resources\TestApp\obj\Debug\net6.0\TestApp.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\21. Unit Testing - Methods - Exercise\resources\TestApp\obj\Debug\net6.0\ref\TestApp.dll
