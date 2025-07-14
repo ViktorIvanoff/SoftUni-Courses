@@ -1,0 +1,14 @@
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Dictionaries, Lamda, LINQ\03.Word Synonims\bin\Debug\net9.0\03.Word Synonims.exe
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Dictionaries, Lamda, LINQ\03.Word Synonims\bin\Debug\net9.0\03.Word Synonims.deps.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Dictionaries, Lamda, LINQ\03.Word Synonims\bin\Debug\net9.0\03.Word Synonims.runtimeconfig.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Dictionaries, Lamda, LINQ\03.Word Synonims\bin\Debug\net9.0\03.Word Synonims.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Dictionaries, Lamda, LINQ\03.Word Synonims\bin\Debug\net9.0\03.Word Synonims.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Dictionaries, Lamda, LINQ\03.Word Synonims\obj\Debug\net9.0\03.Word Synonims.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Dictionaries, Lamda, LINQ\03.Word Synonims\obj\Debug\net9.0\03.Word Synonims.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Dictionaries, Lamda, LINQ\03.Word Synonims\obj\Debug\net9.0\03.Word Synonims.AssemblyInfo.cs
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Dictionaries, Lamda, LINQ\03.Word Synonims\obj\Debug\net9.0\03.Word Synonims.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Dictionaries, Lamda, LINQ\03.Word Synonims\obj\Debug\net9.0\03.Word Synonims.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Dictionaries, Lamda, LINQ\03.Word Synonims\obj\Debug\net9.0\refint\03.Word Synonims.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Dictionaries, Lamda, LINQ\03.Word Synonims\obj\Debug\net9.0\03.Word Synonims.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Dictionaries, Lamda, LINQ\03.Word Synonims\obj\Debug\net9.0\03.Word Synonims.genruntimeconfig.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Dictionaries, Lamda, LINQ\03.Word Synonims\obj\Debug\net9.0\ref\03.Word Synonims.dll

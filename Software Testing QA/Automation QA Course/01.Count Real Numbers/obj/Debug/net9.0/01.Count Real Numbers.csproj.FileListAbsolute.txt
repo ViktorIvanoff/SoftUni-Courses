@@ -1,0 +1,14 @@
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Dictionaries, Lamda, LINQ\01.Count Real Numbers\bin\Debug\net9.0\01.Count Real Numbers.exe
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Dictionaries, Lamda, LINQ\01.Count Real Numbers\bin\Debug\net9.0\01.Count Real Numbers.deps.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Dictionaries, Lamda, LINQ\01.Count Real Numbers\bin\Debug\net9.0\01.Count Real Numbers.runtimeconfig.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Dictionaries, Lamda, LINQ\01.Count Real Numbers\bin\Debug\net9.0\01.Count Real Numbers.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Dictionaries, Lamda, LINQ\01.Count Real Numbers\bin\Debug\net9.0\01.Count Real Numbers.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Dictionaries, Lamda, LINQ\01.Count Real Numbers\obj\Debug\net9.0\01.Count Real Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Dictionaries, Lamda, LINQ\01.Count Real Numbers\obj\Debug\net9.0\01.Count Real Numbers.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Dictionaries, Lamda, LINQ\01.Count Real Numbers\obj\Debug\net9.0\01.Count Real Numbers.AssemblyInfo.cs
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Dictionaries, Lamda, LINQ\01.Count Real Numbers\obj\Debug\net9.0\01.Count Real Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Dictionaries, Lamda, LINQ\01.Count Real Numbers\obj\Debug\net9.0\01.Count Real Numbers.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Dictionaries, Lamda, LINQ\01.Count Real Numbers\obj\Debug\net9.0\refint\01.Count Real Numbers.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Dictionaries, Lamda, LINQ\01.Count Real Numbers\obj\Debug\net9.0\01.Count Real Numbers.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Dictionaries, Lamda, LINQ\01.Count Real Numbers\obj\Debug\net9.0\01.Count Real Numbers.genruntimeconfig.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Dictionaries, Lamda, LINQ\01.Count Real Numbers\obj\Debug\net9.0\ref\01.Count Real Numbers.dll
