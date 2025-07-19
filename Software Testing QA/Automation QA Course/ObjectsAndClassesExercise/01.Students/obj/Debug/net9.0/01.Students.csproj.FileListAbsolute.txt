@@ -1,0 +1,14 @@
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ObjectsAndClassesExercise\01.Students\obj\Debug\net9.0\01.Students.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ObjectsAndClassesExercise\01.Students\obj\Debug\net9.0\01.Students.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ObjectsAndClassesExercise\01.Students\obj\Debug\net9.0\01.Students.AssemblyInfo.cs
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ObjectsAndClassesExercise\01.Students\obj\Debug\net9.0\01.Students.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ObjectsAndClassesExercise\01.Students\bin\Debug\net9.0\01.Students.exe
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ObjectsAndClassesExercise\01.Students\bin\Debug\net9.0\01.Students.deps.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ObjectsAndClassesExercise\01.Students\bin\Debug\net9.0\01.Students.runtimeconfig.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ObjectsAndClassesExercise\01.Students\bin\Debug\net9.0\01.Students.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ObjectsAndClassesExercise\01.Students\bin\Debug\net9.0\01.Students.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ObjectsAndClassesExercise\01.Students\obj\Debug\net9.0\01.Students.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ObjectsAndClassesExercise\01.Students\obj\Debug\net9.0\refint\01.Students.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ObjectsAndClassesExercise\01.Students\obj\Debug\net9.0\01.Students.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ObjectsAndClassesExercise\01.Students\obj\Debug\net9.0\01.Students.genruntimeconfig.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ObjectsAndClassesExercise\01.Students\obj\Debug\net9.0\ref\01.Students.dll

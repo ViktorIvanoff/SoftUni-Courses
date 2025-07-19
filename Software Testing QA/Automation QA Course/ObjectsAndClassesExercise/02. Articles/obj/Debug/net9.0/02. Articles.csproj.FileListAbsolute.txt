@@ -1,0 +1,14 @@
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ObjectsAndClassesExercise\02. Articles\bin\Debug\net9.0\02. Articles.exe
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ObjectsAndClassesExercise\02. Articles\bin\Debug\net9.0\02. Articles.deps.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ObjectsAndClassesExercise\02. Articles\bin\Debug\net9.0\02. Articles.runtimeconfig.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ObjectsAndClassesExercise\02. Articles\bin\Debug\net9.0\02. Articles.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ObjectsAndClassesExercise\02. Articles\bin\Debug\net9.0\02. Articles.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ObjectsAndClassesExercise\02. Articles\obj\Debug\net9.0\02. Articles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ObjectsAndClassesExercise\02. Articles\obj\Debug\net9.0\02. Articles.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ObjectsAndClassesExercise\02. Articles\obj\Debug\net9.0\02. Articles.AssemblyInfo.cs
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ObjectsAndClassesExercise\02. Articles\obj\Debug\net9.0\02. Articles.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ObjectsAndClassesExercise\02. Articles\obj\Debug\net9.0\02. Articles.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ObjectsAndClassesExercise\02. Articles\obj\Debug\net9.0\refint\02. Articles.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ObjectsAndClassesExercise\02. Articles\obj\Debug\net9.0\02. Articles.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ObjectsAndClassesExercise\02. Articles\obj\Debug\net9.0\02. Articles.genruntimeconfig.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ObjectsAndClassesExercise\02. Articles\obj\Debug\net9.0\ref\02. Articles.dll
