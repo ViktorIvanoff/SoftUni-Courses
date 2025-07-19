@@ -1,0 +1,14 @@
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Dictionaries, Lamda, LINQ\08.SoftUni Parking\bin\Debug\net9.0\08.SoftUni Parking.exe
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Dictionaries, Lamda, LINQ\08.SoftUni Parking\bin\Debug\net9.0\08.SoftUni Parking.deps.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Dictionaries, Lamda, LINQ\08.SoftUni Parking\bin\Debug\net9.0\08.SoftUni Parking.runtimeconfig.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Dictionaries, Lamda, LINQ\08.SoftUni Parking\bin\Debug\net9.0\08.SoftUni Parking.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Dictionaries, Lamda, LINQ\08.SoftUni Parking\bin\Debug\net9.0\08.SoftUni Parking.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Dictionaries, Lamda, LINQ\08.SoftUni Parking\obj\Debug\net9.0\08.SoftUni Parking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Dictionaries, Lamda, LINQ\08.SoftUni Parking\obj\Debug\net9.0\08.SoftUni Parking.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Dictionaries, Lamda, LINQ\08.SoftUni Parking\obj\Debug\net9.0\08.SoftUni Parking.AssemblyInfo.cs
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Dictionaries, Lamda, LINQ\08.SoftUni Parking\obj\Debug\net9.0\08.SoftUni Parking.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Dictionaries, Lamda, LINQ\08.SoftUni Parking\obj\Debug\net9.0\08.SoftUni Parking.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Dictionaries, Lamda, LINQ\08.SoftUni Parking\obj\Debug\net9.0\refint\08.SoftUni Parking.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Dictionaries, Lamda, LINQ\08.SoftUni Parking\obj\Debug\net9.0\08.SoftUni Parking.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Dictionaries, Lamda, LINQ\08.SoftUni Parking\obj\Debug\net9.0\08.SoftUni Parking.genruntimeconfig.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Dictionaries, Lamda, LINQ\08.SoftUni Parking\obj\Debug\net9.0\ref\08.SoftUni Parking.dll

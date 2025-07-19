@@ -1,0 +1,14 @@
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Exam\01.Problem\bin\Debug\net9.0\01.Problem.exe
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Exam\01.Problem\bin\Debug\net9.0\01.Problem.deps.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Exam\01.Problem\bin\Debug\net9.0\01.Problem.runtimeconfig.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Exam\01.Problem\bin\Debug\net9.0\01.Problem.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Exam\01.Problem\bin\Debug\net9.0\01.Problem.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Exam\01.Problem\obj\Debug\net9.0\01.Problem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Exam\01.Problem\obj\Debug\net9.0\01.Problem.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Exam\01.Problem\obj\Debug\net9.0\01.Problem.AssemblyInfo.cs
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Exam\01.Problem\obj\Debug\net9.0\01.Problem.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Exam\01.Problem\obj\Debug\net9.0\01.Problem.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Exam\01.Problem\obj\Debug\net9.0\refint\01.Problem.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Exam\01.Problem\obj\Debug\net9.0\01.Problem.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Exam\01.Problem\obj\Debug\net9.0\01.Problem.genruntimeconfig.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Exam\01.Problem\obj\Debug\net9.0\ref\01.Problem.dll

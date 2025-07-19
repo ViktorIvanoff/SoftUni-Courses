@@ -1,0 +1,14 @@
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Lists - Exercise\05.BombNumbers\bin\Debug\net9.0\05.BombNumbers.exe
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Lists - Exercise\05.BombNumbers\bin\Debug\net9.0\05.BombNumbers.deps.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Lists - Exercise\05.BombNumbers\bin\Debug\net9.0\05.BombNumbers.runtimeconfig.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Lists - Exercise\05.BombNumbers\bin\Debug\net9.0\05.BombNumbers.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Lists - Exercise\05.BombNumbers\bin\Debug\net9.0\05.BombNumbers.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Lists - Exercise\05.BombNumbers\obj\Debug\net9.0\05.BombNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Lists - Exercise\05.BombNumbers\obj\Debug\net9.0\05.BombNumbers.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Lists - Exercise\05.BombNumbers\obj\Debug\net9.0\05.BombNumbers.AssemblyInfo.cs
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Lists - Exercise\05.BombNumbers\obj\Debug\net9.0\05.BombNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Lists - Exercise\05.BombNumbers\obj\Debug\net9.0\05.BombNumbers.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Lists - Exercise\05.BombNumbers\obj\Debug\net9.0\refint\05.BombNumbers.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Lists - Exercise\05.BombNumbers\obj\Debug\net9.0\05.BombNumbers.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Lists - Exercise\05.BombNumbers\obj\Debug\net9.0\05.BombNumbers.genruntimeconfig.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Lists - Exercise\05.BombNumbers\obj\Debug\net9.0\ref\05.BombNumbers.dll

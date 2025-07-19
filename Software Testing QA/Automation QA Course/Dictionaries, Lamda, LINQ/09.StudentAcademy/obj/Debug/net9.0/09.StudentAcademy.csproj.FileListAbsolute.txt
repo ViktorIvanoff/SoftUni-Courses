@@ -1,0 +1,14 @@
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Dictionaries, Lamda, LINQ\09.StudentAcademy\bin\Debug\net9.0\09.StudentAcademy.exe
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Dictionaries, Lamda, LINQ\09.StudentAcademy\bin\Debug\net9.0\09.StudentAcademy.deps.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Dictionaries, Lamda, LINQ\09.StudentAcademy\bin\Debug\net9.0\09.StudentAcademy.runtimeconfig.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Dictionaries, Lamda, LINQ\09.StudentAcademy\bin\Debug\net9.0\09.StudentAcademy.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Dictionaries, Lamda, LINQ\09.StudentAcademy\bin\Debug\net9.0\09.StudentAcademy.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Dictionaries, Lamda, LINQ\09.StudentAcademy\obj\Debug\net9.0\09.StudentAcademy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Dictionaries, Lamda, LINQ\09.StudentAcademy\obj\Debug\net9.0\09.StudentAcademy.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Dictionaries, Lamda, LINQ\09.StudentAcademy\obj\Debug\net9.0\09.StudentAcademy.AssemblyInfo.cs
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Dictionaries, Lamda, LINQ\09.StudentAcademy\obj\Debug\net9.0\09.StudentAcademy.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Dictionaries, Lamda, LINQ\09.StudentAcademy\obj\Debug\net9.0\09.StudentAcademy.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Dictionaries, Lamda, LINQ\09.StudentAcademy\obj\Debug\net9.0\refint\09.StudentAcademy.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Dictionaries, Lamda, LINQ\09.StudentAcademy\obj\Debug\net9.0\09.StudentAcademy.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Dictionaries, Lamda, LINQ\09.StudentAcademy\obj\Debug\net9.0\09.StudentAcademy.genruntimeconfig.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Dictionaries, Lamda, LINQ\09.StudentAcademy\obj\Debug\net9.0\ref\09.StudentAcademy.dll

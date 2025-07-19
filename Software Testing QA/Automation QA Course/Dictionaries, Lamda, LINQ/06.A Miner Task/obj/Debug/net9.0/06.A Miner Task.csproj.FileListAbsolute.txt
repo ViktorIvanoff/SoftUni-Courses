@@ -1,0 +1,14 @@
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Dictionaries, Lamda, LINQ\06.A Miner Task\bin\Debug\net9.0\06.A Miner Task.exe
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Dictionaries, Lamda, LINQ\06.A Miner Task\bin\Debug\net9.0\06.A Miner Task.deps.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Dictionaries, Lamda, LINQ\06.A Miner Task\bin\Debug\net9.0\06.A Miner Task.runtimeconfig.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Dictionaries, Lamda, LINQ\06.A Miner Task\bin\Debug\net9.0\06.A Miner Task.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Dictionaries, Lamda, LINQ\06.A Miner Task\bin\Debug\net9.0\06.A Miner Task.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Dictionaries, Lamda, LINQ\06.A Miner Task\obj\Debug\net9.0\06.A Miner Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Dictionaries, Lamda, LINQ\06.A Miner Task\obj\Debug\net9.0\06.A Miner Task.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Dictionaries, Lamda, LINQ\06.A Miner Task\obj\Debug\net9.0\06.A Miner Task.AssemblyInfo.cs
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Dictionaries, Lamda, LINQ\06.A Miner Task\obj\Debug\net9.0\06.A Miner Task.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Dictionaries, Lamda, LINQ\06.A Miner Task\obj\Debug\net9.0\06.A Miner Task.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Dictionaries, Lamda, LINQ\06.A Miner Task\obj\Debug\net9.0\refint\06.A Miner Task.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Dictionaries, Lamda, LINQ\06.A Miner Task\obj\Debug\net9.0\06.A Miner Task.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Dictionaries, Lamda, LINQ\06.A Miner Task\obj\Debug\net9.0\06.A Miner Task.genruntimeconfig.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Dictionaries, Lamda, LINQ\06.A Miner Task\obj\Debug\net9.0\ref\06.A Miner Task.dll

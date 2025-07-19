@@ -1,0 +1,14 @@
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ExamPreparation2\02.MinMaxNumber\bin\Debug\net9.0\02.MinMaxNumber.exe
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ExamPreparation2\02.MinMaxNumber\bin\Debug\net9.0\02.MinMaxNumber.deps.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ExamPreparation2\02.MinMaxNumber\bin\Debug\net9.0\02.MinMaxNumber.runtimeconfig.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ExamPreparation2\02.MinMaxNumber\bin\Debug\net9.0\02.MinMaxNumber.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ExamPreparation2\02.MinMaxNumber\bin\Debug\net9.0\02.MinMaxNumber.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ExamPreparation2\02.MinMaxNumber\obj\Debug\net9.0\02.MinMaxNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ExamPreparation2\02.MinMaxNumber\obj\Debug\net9.0\02.MinMaxNumber.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ExamPreparation2\02.MinMaxNumber\obj\Debug\net9.0\02.MinMaxNumber.AssemblyInfo.cs
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ExamPreparation2\02.MinMaxNumber\obj\Debug\net9.0\02.MinMaxNumber.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ExamPreparation2\02.MinMaxNumber\obj\Debug\net9.0\02.MinMaxNumber.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ExamPreparation2\02.MinMaxNumber\obj\Debug\net9.0\refint\02.MinMaxNumber.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ExamPreparation2\02.MinMaxNumber\obj\Debug\net9.0\02.MinMaxNumber.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ExamPreparation2\02.MinMaxNumber\obj\Debug\net9.0\02.MinMaxNumber.genruntimeconfig.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ExamPreparation2\02.MinMaxNumber\obj\Debug\net9.0\ref\02.MinMaxNumber.dll

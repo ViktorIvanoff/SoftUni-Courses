@@ -1,0 +1,14 @@
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Lists - Exercise\03.ListOperations\bin\Debug\net9.0\03.ListOperations.exe
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Lists - Exercise\03.ListOperations\bin\Debug\net9.0\03.ListOperations.deps.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Lists - Exercise\03.ListOperations\bin\Debug\net9.0\03.ListOperations.runtimeconfig.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Lists - Exercise\03.ListOperations\bin\Debug\net9.0\03.ListOperations.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Lists - Exercise\03.ListOperations\bin\Debug\net9.0\03.ListOperations.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Lists - Exercise\03.ListOperations\obj\Debug\net9.0\03.ListOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Lists - Exercise\03.ListOperations\obj\Debug\net9.0\03.ListOperations.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Lists - Exercise\03.ListOperations\obj\Debug\net9.0\03.ListOperations.AssemblyInfo.cs
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Lists - Exercise\03.ListOperations\obj\Debug\net9.0\03.ListOperations.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Lists - Exercise\03.ListOperations\obj\Debug\net9.0\03.ListOperations.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Lists - Exercise\03.ListOperations\obj\Debug\net9.0\refint\03.ListOperations.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Lists - Exercise\03.ListOperations\obj\Debug\net9.0\03.ListOperations.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Lists - Exercise\03.ListOperations\obj\Debug\net9.0\03.ListOperations.genruntimeconfig.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Lists - Exercise\03.ListOperations\obj\Debug\net9.0\ref\03.ListOperations.dll

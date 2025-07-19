@@ -1,0 +1,14 @@
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Dictionaries, Lamda, LINQ\02.Odd Occurances\bin\Debug\net9.0\02.Odd Occurances.exe
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Dictionaries, Lamda, LINQ\02.Odd Occurances\bin\Debug\net9.0\02.Odd Occurances.deps.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Dictionaries, Lamda, LINQ\02.Odd Occurances\bin\Debug\net9.0\02.Odd Occurances.runtimeconfig.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Dictionaries, Lamda, LINQ\02.Odd Occurances\bin\Debug\net9.0\02.Odd Occurances.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Dictionaries, Lamda, LINQ\02.Odd Occurances\bin\Debug\net9.0\02.Odd Occurances.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Dictionaries, Lamda, LINQ\02.Odd Occurances\obj\Debug\net9.0\02.Odd Occurances.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Dictionaries, Lamda, LINQ\02.Odd Occurances\obj\Debug\net9.0\02.Odd Occurances.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Dictionaries, Lamda, LINQ\02.Odd Occurances\obj\Debug\net9.0\02.Odd Occurances.AssemblyInfo.cs
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Dictionaries, Lamda, LINQ\02.Odd Occurances\obj\Debug\net9.0\02.Odd Occurances.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Dictionaries, Lamda, LINQ\02.Odd Occurances\obj\Debug\net9.0\02.Odd Occurances.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Dictionaries, Lamda, LINQ\02.Odd Occurances\obj\Debug\net9.0\refint\02.Odd Occurances.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Dictionaries, Lamda, LINQ\02.Odd Occurances\obj\Debug\net9.0\02.Odd Occurances.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Dictionaries, Lamda, LINQ\02.Odd Occurances\obj\Debug\net9.0\02.Odd Occurances.genruntimeconfig.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Dictionaries, Lamda, LINQ\02.Odd Occurances\obj\Debug\net9.0\ref\02.Odd Occurances.dll

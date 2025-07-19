@@ -1,0 +1,14 @@
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Dictionaries, Lamda, LINQ\05.CountCharsInAString\bin\Debug\net9.0\05.CountCharsInAString.exe
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Dictionaries, Lamda, LINQ\05.CountCharsInAString\bin\Debug\net9.0\05.CountCharsInAString.deps.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Dictionaries, Lamda, LINQ\05.CountCharsInAString\bin\Debug\net9.0\05.CountCharsInAString.runtimeconfig.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Dictionaries, Lamda, LINQ\05.CountCharsInAString\bin\Debug\net9.0\05.CountCharsInAString.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Dictionaries, Lamda, LINQ\05.CountCharsInAString\bin\Debug\net9.0\05.CountCharsInAString.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Dictionaries, Lamda, LINQ\05.CountCharsInAString\obj\Debug\net9.0\05.CountCharsInAString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Dictionaries, Lamda, LINQ\05.CountCharsInAString\obj\Debug\net9.0\05.CountCharsInAString.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Dictionaries, Lamda, LINQ\05.CountCharsInAString\obj\Debug\net9.0\05.CountCharsInAString.AssemblyInfo.cs
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Dictionaries, Lamda, LINQ\05.CountCharsInAString\obj\Debug\net9.0\05.CountCharsInAString.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Dictionaries, Lamda, LINQ\05.CountCharsInAString\obj\Debug\net9.0\05.CountCharsInAString.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Dictionaries, Lamda, LINQ\05.CountCharsInAString\obj\Debug\net9.0\refint\05.CountCharsInAString.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Dictionaries, Lamda, LINQ\05.CountCharsInAString\obj\Debug\net9.0\05.CountCharsInAString.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Dictionaries, Lamda, LINQ\05.CountCharsInAString\obj\Debug\net9.0\05.CountCharsInAString.genruntimeconfig.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Dictionaries, Lamda, LINQ\05.CountCharsInAString\obj\Debug\net9.0\ref\05.CountCharsInAString.dll

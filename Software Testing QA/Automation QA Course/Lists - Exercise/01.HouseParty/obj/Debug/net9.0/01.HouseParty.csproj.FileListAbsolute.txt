@@ -1,0 +1,14 @@
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Lists - Exercise\01.HouseParty\bin\Debug\net9.0\01.HouseParty.exe
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Lists - Exercise\01.HouseParty\bin\Debug\net9.0\01.HouseParty.deps.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Lists - Exercise\01.HouseParty\bin\Debug\net9.0\01.HouseParty.runtimeconfig.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Lists - Exercise\01.HouseParty\bin\Debug\net9.0\01.HouseParty.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Lists - Exercise\01.HouseParty\bin\Debug\net9.0\01.HouseParty.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Lists - Exercise\01.HouseParty\obj\Debug\net9.0\01.HouseParty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Lists - Exercise\01.HouseParty\obj\Debug\net9.0\01.HouseParty.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Lists - Exercise\01.HouseParty\obj\Debug\net9.0\01.HouseParty.AssemblyInfo.cs
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Lists - Exercise\01.HouseParty\obj\Debug\net9.0\01.HouseParty.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Lists - Exercise\01.HouseParty\obj\Debug\net9.0\01.HouseParty.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Lists - Exercise\01.HouseParty\obj\Debug\net9.0\refint\01.HouseParty.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Lists - Exercise\01.HouseParty\obj\Debug\net9.0\01.HouseParty.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Lists - Exercise\01.HouseParty\obj\Debug\net9.0\01.HouseParty.genruntimeconfig.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\Lists - Exercise\01.HouseParty\obj\Debug\net9.0\ref\01.HouseParty.dll
