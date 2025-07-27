@@ -1,0 +1,14 @@
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ExceptionHandling - Lab\01.SquareRoot\bin\Debug\net9.0\01.SquareRoot.exe
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ExceptionHandling - Lab\01.SquareRoot\bin\Debug\net9.0\01.SquareRoot.deps.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ExceptionHandling - Lab\01.SquareRoot\bin\Debug\net9.0\01.SquareRoot.runtimeconfig.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ExceptionHandling - Lab\01.SquareRoot\bin\Debug\net9.0\01.SquareRoot.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ExceptionHandling - Lab\01.SquareRoot\bin\Debug\net9.0\01.SquareRoot.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ExceptionHandling - Lab\01.SquareRoot\obj\Debug\net9.0\01.SquareRoot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ExceptionHandling - Lab\01.SquareRoot\obj\Debug\net9.0\01.SquareRoot.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ExceptionHandling - Lab\01.SquareRoot\obj\Debug\net9.0\01.SquareRoot.AssemblyInfo.cs
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ExceptionHandling - Lab\01.SquareRoot\obj\Debug\net9.0\01.SquareRoot.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ExceptionHandling - Lab\01.SquareRoot\obj\Debug\net9.0\01.SquareRoot.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ExceptionHandling - Lab\01.SquareRoot\obj\Debug\net9.0\refint\01.SquareRoot.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ExceptionHandling - Lab\01.SquareRoot\obj\Debug\net9.0\01.SquareRoot.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ExceptionHandling - Lab\01.SquareRoot\obj\Debug\net9.0\01.SquareRoot.genruntimeconfig.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ExceptionHandling - Lab\01.SquareRoot\obj\Debug\net9.0\ref\01.SquareRoot.dll

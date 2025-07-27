@@ -1,0 +1,14 @@
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ExceptionHandling - Lab\03.SumOfIntegers\bin\Debug\net9.0\03.SumOfIntegers.exe
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ExceptionHandling - Lab\03.SumOfIntegers\bin\Debug\net9.0\03.SumOfIntegers.deps.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ExceptionHandling - Lab\03.SumOfIntegers\bin\Debug\net9.0\03.SumOfIntegers.runtimeconfig.json
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ExceptionHandling - Lab\03.SumOfIntegers\bin\Debug\net9.0\03.SumOfIntegers.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ExceptionHandling - Lab\03.SumOfIntegers\bin\Debug\net9.0\03.SumOfIntegers.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ExceptionHandling - Lab\03.SumOfIntegers\obj\Debug\net9.0\03.SumOfIntegers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ExceptionHandling - Lab\03.SumOfIntegers\obj\Debug\net9.0\03.SumOfIntegers.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ExceptionHandling - Lab\03.SumOfIntegers\obj\Debug\net9.0\03.SumOfIntegers.AssemblyInfo.cs
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ExceptionHandling - Lab\03.SumOfIntegers\obj\Debug\net9.0\03.SumOfIntegers.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ExceptionHandling - Lab\03.SumOfIntegers\obj\Debug\net9.0\03.SumOfIntegers.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ExceptionHandling - Lab\03.SumOfIntegers\obj\Debug\net9.0\refint\03.SumOfIntegers.dll
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ExceptionHandling - Lab\03.SumOfIntegers\obj\Debug\net9.0\03.SumOfIntegers.pdb
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ExceptionHandling - Lab\03.SumOfIntegers\obj\Debug\net9.0\03.SumOfIntegers.genruntimeconfig.cache
+C:\Users\Victor\Desktop\Automation QA\Programming Fundamentals and Unit Testing\VS Projects\ExceptionHandling - Lab\03.SumOfIntegers\obj\Debug\net9.0\ref\03.SumOfIntegers.dll
